@@ -68,11 +68,11 @@ d3.csv("data2a.csv", function(error, data) {
     });
 
     // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.date; }));
+    x.domain(d3.extent(data, function(d) { return d.Date; }));
     y0.domain([0, d3.max(data, function(d) {
-		return Math.max(d.close); })]); 
+		return Math.max(d.TempOut); })]); 
     y1.domain([0, d3.max(data, function(d) { 
-		return Math.max(d.open); })]);
+		return Math.max(d.TempIn); })]);
 
     svg.append("path")        // Add the valueline path.
         .attr("d", valueline(data));
