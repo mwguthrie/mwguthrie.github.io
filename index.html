@@ -44,12 +44,12 @@ var yAxisRight = d3.svg.axis().scale(y1)
     .orient("right").ticks(5); 
 
 var valueline = d3.svg.line()
-    .x(function(d) { return x(d.date); })
-    .y(function(d) { return y0(d.close); });
+    .x(function(d) { return x(d.Date); })
+    .y(function(d) { return y0(d.TempOut); });
     
 var valueline2 = d3.svg.line()
-    .x(function(d) { return x(d.date); })
-    .y(function(d) { return y1(d.open); });
+    .x(function(d) { return x(d.Date); })
+    .y(function(d) { return y1(d.TempIn); });
   
 var svg = d3.select("body")
     .append("svg")
@@ -62,9 +62,9 @@ var svg = d3.select("body")
 // Get the data
 d3.csv("data2a.csv", function(error, data) {
     data.forEach(function(d) {
-        d.date = parseDate(d.date);
-        d.close = +d.close;
-        d.open = +d.open;
+        d.date = parseDate(d.Date);
+        d.close = +d.TempOut;
+        d.open = +d.TempIn;
     });
 
     // Scale the range of the data
