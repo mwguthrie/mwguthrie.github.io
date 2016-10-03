@@ -60,7 +60,7 @@ var svg = d3.select("body")
               "translate(" + margin.left + "," + margin.top + ")");
 
 // Get the data
-d3.csv("https://raw.githubusercontent.com/mwguthrie/mwguthrie.github.io/master/data2a.csv", function(error, data) {
+d3.csv("data2a.csv", function(error, data) {
     data.forEach(function(d) {
         d.Date = parseDate(d.Date);
         d.TempOut = +d.TempOut;
