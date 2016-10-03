@@ -63,8 +63,8 @@ var svg = d3.select("body")
 d3.csv("data2a.csv", function(error, data) {
     data.forEach(function(d) {
         d.Date = parseDate(d.Date);
-        d.TempIn = +d.TempIn;
         d.TempOut = +d.TempOut;
+        d.TempIn = +d.TempIn;
     });
 
     // Scale the range of the data
