@@ -23,6 +23,8 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
+	
+var dropbox_url = "https://dl.dropboxusercontent.com/u/70167946/data2a.csv?dl=1";
 
 var margin = {top: 30, right: 40, bottom: 30, left: 50},
     width = 600 - margin.left - margin.right,
@@ -59,8 +61,13 @@ var svg = d3.select("body")
         .attr("transform", 
               "translate(" + margin.left + "," + margin.top + ")");
 
+d3.json(dropbox_url, function(error, data){
+  console.log("Successfully loaded file from Dropbox!");
+  console.log(data);
+});	
+	
 // Get the data
-d3.csv("data2a.csv", function(error, data) {
+d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
         d.date = parseDate(d.date);
         d.close = +d.close;
