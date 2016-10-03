@@ -45,11 +45,11 @@ var yAxisRight = d3.svg.axis().scale(y1)
 
 var valueline = d3.svg.line()
     .x(function(d) { return x(d.Date); })
-    .y(function(d) { return y0(d.TempIn); });
+    .y(function(d) { return y0(d.TempOut); });
     
 var valueline2 = d3.svg.line()
     .x(function(d) { return x(d.Date); })
-    .y(function(d) { return y1(d.TempOut); });
+    .y(function(d) { return y1(d.TempIn); });
   
 var svg = d3.select("body")
     .append("svg")
@@ -70,9 +70,9 @@ d3.csv("data2a.csv", function(error, data) {
     // Scale the range of the data
     x.domain(d3.extent(data, function(d) { return d.Date; }));
     y0.domain([0, d3.max(data, function(d) {
-		return Math.max(d.TempIn); })]); 
+		return Math.max(d.TempOut); })]); 
     y1.domain([0, d3.max(data, function(d) { 
-		return Math.max(d.TempOut); })]);
+		return Math.max(d.TempIn); })]);
 
     svg.append("path")        // Add the valueline path.
         .attr("d", valueline(data));
