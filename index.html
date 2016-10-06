@@ -24,7 +24,7 @@ path {
 
 <script>
 	
-var dropbox_url = "https://dl.dropboxusercontent.com/u/70167946/data.csv?dl=1";
+var dropbox_url = "https://dl.dropboxusercontent.com/u/61953356/NestData/nestdata.csv?dl=1";
 
 var margin = {top: 30, right: 40, bottom: 30, left: 50},
     width = 600 - margin.left - margin.right,
@@ -46,12 +46,12 @@ var yAxisRight = d3.svg.axis().scale(y1)
     .orient("right").ticks(5); 
 
 var valueline = d3.svg.line()
-    .x(function(d) { return x(d.Date); })
-    .y(function(d) { return y0(d.TempOut); });
+    .x(function(d) { return x(d.Time); })
+    .y(function(d) { return y0(d.OutTemp); });
     
 var valueline2 = d3.svg.line()
-    .x(function(d) { return x(d.Date); })
-    .y(function(d) { return y1(d.TempIn); });
+    .x(function(d) { return x(d.Time); })
+    .y(function(d) { return y1(d.InTemp); });
   
 var svg = d3.select("body")
     .append("svg")
@@ -69,17 +69,17 @@ d3.json(dropbox_url, function(error, data){
 // Get the data
 d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
-        d.Date = parseDate(d.Date);
-        d.TempOut = +d.TempOut;
-        d.TempIn = +d.TempIn;
+        d.Date = parseDate(d.Time);
+        d.TempOut = +d.OutTemp;
+        d.TempIn = +d.InTemp;
     });
 
     // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.Date; }));
+    x.domain(d3.extent(data, function(d) { return d.Time; }));
     y0.domain([0, d3.max(data, function(d) {
-		return Math.max(d.TempOut); })]); 
+		return Math.max(d.OutTemp); })]); 
     y1.domain([0, d3.max(data, function(d) { 
-		return Math.max(d.TempIn); })]);
+		return Math.max(d.InTemp); })]);
 
     svg.append("path")        // Add the valueline path.
         .attr("d", valueline(data));
