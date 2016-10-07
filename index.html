@@ -70,8 +70,8 @@ d3.json(dropbox_url, function(error, data){
 d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
         d.Date = parseDate(d.Time);
-        d.TempOut = +d.OutTemp;
-        d.TempIn = +d.InTemp;
+        d.OutTemp = +d.OutTemp;
+        d.OutTemp = +d.InTemp;
     });
 
     // Scale the range of the data
