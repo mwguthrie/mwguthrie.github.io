@@ -71,7 +71,12 @@ d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
         d.Time = parseDate(d.Time);
         d.OutTemp = +d.OutTemp;
+	d.OutHumid = +d.OutHumid;
         d.InTemp = +d.InTemp;
+	d.InHumid = +d.InHumid;
+	d.Fan = +d.Fan;
+	d.AC = +d.AC;
+	d.Heat = +d.Heat;
     });
 
     // Scale the range of the data
