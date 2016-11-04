@@ -71,38 +71,27 @@ d3.csv(dropbox_url, function(error, data) {
 	x.domain(d3.extent(data, function(d) { return d.Time; }));
 	y.domain([0, d3.max(data, function(d) { return Math.max(d.OutTemp, d.InTemp); })]);
   
-	svg.append("path")		// Add the valueline path.
-		.attr("class", "line")
-		.attr("d", valueline(data));
-  
-	svg.append("path")		// Add the valueline2 path.
-		.attr("class", "line")
-		.style("stroke", "red")
-		.attr("d", valueline2(data));
-  
-	svg.append("g")			// Add the X Axis
-		.attr("class", "x axis")
-		.attr("transform", "translate(0," + height + ")")
-		.call(xAxis);
-  
-	svg.append("g")			// Add the Y Axis
-		.attr("class", "y axis")
-		.call(yAxis);
-  
-	svg.append("text")
-		.attr("transform", "translate(" + (width+3) + "," + y(d.InTemp) + ")")
-		.attr("dy", ".35em")
-		.attr("text-anchor", "start")
-		.style("fill", "red")
-		.text("In Temp");
-  
-	svg.append("text")
-		.attr("transform", "translate(" + (width+3) + "," + y(d.OutTemp) + ")")
-		.attr("dy", ".35em")
-		.attr("text-anchor", "start")
-		.style("fill", "steelblue")
-		.text("Out Temp");
-  
+// Add the valueline path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .attr("d", valueline);
+
+  // Add the valueline2 path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .style("stroke", "red")
+      .attr("d", valueline2);
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y));
 	legend = svg.append("g")
     		.attr("class","legend")
     		.attr("transform","translate(50,30)")
