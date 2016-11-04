@@ -92,11 +92,7 @@ d3.csv(dropbox_url, function(error, data) {
   // Add the Y Axis
   svg.append("g")
       .call(d3.axisLeft(y));
-	legend = svg.append("g")
-    		.attr("class","legend")
-    		.attr("transform","translate(50,30)")
-    		.style("font-size","12px")
-    		.call(d3.legend)
+
 });
   
 </script>
