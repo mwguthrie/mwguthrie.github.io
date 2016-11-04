@@ -98,14 +98,14 @@ d3.csv(dropbox_url, function(error, data) {
 		.call(yAxis);
 
 	svg.append("text")
-		.attr("transform", "translate(" + (width+3) + "," + y(data[0].InTemp) + ")")
+		.attr("transform", "translate(" + (width+3) + "," + y(d.InTemp) + ")")
 		.attr("dy", ".35em")
 		.attr("text-anchor", "start")
 		.style("fill", "red")
 		.text("In Temp");
 
 	svg.append("text")
-		.attr("transform", "translate(" + (width+3) + "," + y(data[0].OutTemp) + ")")
+		.attr("transform", "translate(" + (width+3) + "," + y(d.OutTemp) + ")")
 		.attr("dy", ".35em")
 		.attr("text-anchor", "start")
 		.style("fill", "steelblue")
