@@ -112,8 +112,8 @@ d3.csv(dropbox_url, function(error, data) {
 //        .call(yAxisRight);
 
 	// Scale the range of the data
-	x.domain(d3.extent(data, function(d) { return d.date; }));
-	y.domain([0, d3.max(data, function(d) { return Math.max(d.close, d.open); })]);
+	x.domain(d3.extent(data, function(d) { return d.Time; }));
+	y.domain([0, d3.max(data, function(d) { return Math.max(d.OutTemp, d.InTemp); })]);
 
 	svg.append("path")		// Add the valueline path.
 		.attr("class", "line")
