@@ -40,12 +40,6 @@ var xAxis = d3.svg.axis().scale(x)
 	
 var yAxis = d3.svg.axis().scale(y)
 	.orient("left").ticks(5);
-	
-//var yAxisLeft = d3.svg.axis().scale(y0)
-//    .orient("left").ticks(5);
-//
-//var yAxisRight = d3.svg.axis().scale(y1)
-//    .orient("right").ticks(5); 
 
 var valueline = d3.svg.line()
     .x(function(d) { return x(d.Time); })
@@ -80,36 +74,6 @@ d3.csv(dropbox_url, function(error, data) {
 		d.AC = +d.AC;
 		d.Heat = +d.Heat;
     	});
-
-//    // Scale the range of the data
-//    x.domain(d3.extent(data, function(d) { return d.Time; }));
-//    y0.domain([0, d3.max(data, function(d) {
-//		return Math.max(d.OutTemp); })]); 
-//    y1.domain([0, d3.max(data, function(d) { 
-//		return Math.max(d.InTemp); })]);
-//
-//    svg.append("path")        // Add the valueline path.
-//        .attr("d", valueline(data));
-//
-//    svg.append("path")        // Add the valueline2 path.
-//        .style("stroke", "red")
-//        .attr("d", valueline2(data));
-//
-//    svg.append("g")            // Add the X Axis
-//        .attr("class", "x axis")
-//        .attr("transform", "translate(0," + height + ")")
-//        .call(xAxis);
-//
-//    svg.append("g")
-//        .attr("class", "y axis")
-//        .style("fill", "steelblue")
-//        .call(yAxisLeft);	
-//
-//    svg.append("g")				
-//        .attr("class", "y axis")	
-//        .attr("transform", "translate(" + width + " ,0)")	
-//        .style("fill", "red")		
-//        .call(yAxisRight);
 
 	// Scale the range of the data
 	x.domain(d3.extent(data, function(d) { return d.Time; }));
