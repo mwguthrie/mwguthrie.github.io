@@ -34,12 +34,13 @@ body {
 <script src="d3.legend.js"></script>
 <script>
 
+var dropbox_url = "https://dl.dropboxusercontent.com/u/61953356/NestData/nestdata.csv?dl=1";
 
 var margin = {top: 20, right: 80, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var parseDate = d3.time.format("%Y%m%d").parse;
+var parseDate = d3.time.format("%Y-%m-%d %H:%M:%S").parse;
 
 var x = d3.time.scale()
     .range([0, width]);
@@ -59,27 +60,38 @@ var yAxis = d3.svg.axis()
 
 var line = d3.svg.line()
     .interpolate("basis")
-    .x(function(d) { return x(d.date); })
-    .y(function(d) { return y(d.temperature); });
+    .x(function(d) { return x(d.Time); })
+    .y(function(d) { return y(d.tenperature); });
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  
+d3.json(dropbox_url, function(error, data){
+  console.log("Successfully loaded file from Dropbox!");
+  console.log(data);
+});	
+  
+// Get the data
+d3.csv(dropbox_url, function(error, data) {
+    data.forEach(function(d) {
+      	d.Time = parseDate(d.Time);
+        d.OutTemp = +d.OutTemp;
+//		    d.OutHumid = +d.OutHumid;
+        d.InTemp = +d.InTemp;
+//		    d.InHumid = +d.InHumid;
+//		    d.Fan = +d.Fan;
+//		    d.AC = +d.AC;
+//		    d.Heat = +d.Heat;
+    	  });
 
-d3.tsv("data.tsv", function(error, data) {
-  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "date"; }));
-
-  data.forEach(function(d) {
-    d.date = parseDate(d.date);
-  });
-
-  var cities = color.domain().map(function(name) {
+  var vars = color.domain().map(function(name) {
     return {
       name: name,
       values: data.map(function(d) {
-        return {date: d.date, temperature: +d[name]};
+        return {date: d.Time, temperature: +d[name]};
       })
     };
   });
@@ -87,8 +99,8 @@ d3.tsv("data.tsv", function(error, data) {
   x.domain(d3.extent(data, function(d) { return d.date; }));
 
   y.domain([
-    d3.min(cities, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
-    d3.max(cities, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); })
+    d3.min(vars, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
+    d3.max(vars, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); })
   ]);
 
   svg.append("g")
@@ -107,7 +119,7 @@ d3.tsv("data.tsv", function(error, data) {
       .text("Temperature (ºF)");
 
   var city = svg.selectAll(".city")
-      .data(cities)
+      .data(vars)
     .enter().append("g")
       .attr("class", "city");
 
