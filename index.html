@@ -53,7 +53,7 @@ d3.json(dropbox_url, function(error, data){
 // Get the data
 d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
-      	d.date = parseDate(d.date);
+      	d.date = parseTime(d.date);
         d.OutTemp = +d.OutTemp;
 	d.OutHumid = +d.OutHumid;
         d.intemp = +d.intemp;
