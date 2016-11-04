@@ -118,7 +118,11 @@ d3.csv(dropbox_url, function(error, data) {
 		.attr("text-anchor", "start")
 		.style("fill", "steelblue")
 		.text("Out Temp");
-
+	legend = svg.append("g")
+    		.attr("class","legend")
+    		.attr("transform","translate(50,30)")
+    		.style("font-size","12px")
+    		.call(d3.legend)
 
 });
 
