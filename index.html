@@ -1,155 +1,114 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<style>
-
-body {
-  font: 10px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.x.axis path {
-  display: none;
-}
+<style> /* set the CSS */
 
 .line {
   fill: none;
   stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke-width: 2px;
 }
-
-.legend rect {
-  fill:white;
-  stroke:black;
-  opacity:0.8;}
 
 </style>
 <body>
-<script src="http://d3js.org/d3.v3.js"></script>
-<script src="d3.legend.js"></script>
+
+<!-- load the d3.js library -->    	
+<script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-var dropbox_url = "https://dl.dropboxusercontent.com/u/61953356/NestData/nestdata.csv?dl=1";
-
-var margin = {top: 20, right: 80, bottom: 30, left: 50},
+var dropbox_url = "https://dl.dropboxusercontent.com/u/61953356/NestData/nestdata.csv?dl=1";  
+  
+// set the dimensions and margins of the graph
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var parseDate = d3.time.format("%Y-%m-%d %H:%M:%S").parse;
+// parse the date / time
+var parseTime = d3.timeParse("%Y-%m-%d %H:%M:%S");
 
-var x = d3.time.scale()
-    .range([0, width]);
+// set the ranges
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
 
-var y = d3.scale.linear()
-    .range([height, 0]);
-
-var color = d3.scale.category10();
-
-var xAxis = d3.svg.axis()
-    .scale(x)
-    .orient("bottom");
-
-var yAxis = d3.svg.axis()
-    .scale(y)
-    .orient("left");
-
-var line = d3.svg.line()
-    .interpolate("basis")
+// define the 1st line
+var valueline = d3.line()
     .x(function(d) { return x(d.Time); })
-    .y(function(d) { return y(d.tenperature); });
+    .y(function(d) { return y(d.OutTemp); });
 
+// define the 2nd line
+var valueline2 = d3.line()
+    .x(function(d) { return x(d.Time); })
+    .y(function(d) { return y(d.InTemp); });
+
+// append the svg obgect to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-  
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
 d3.json(dropbox_url, function(error, data){
   console.log("Successfully loaded file from Dropbox!");
   console.log(data);
 });	
   
+  
 // Get the data
 d3.csv(dropbox_url, function(error, data) {
     data.forEach(function(d) {
-      	d.Time = parseDate(d.Time);
-        d.OutTemp = +d.OutTemp;
-//		    d.OutHumid = +d.OutHumid;
-        d.InTemp = +d.InTemp;
-//		    d.InHumid = +d.InHumid;
-//		    d.Fan = +d.Fan;
-//		    d.AC = +d.AC;
-//		    d.Heat = +d.Heat;
-    	  });
+    d.Time = parseDate(d.Time);
+    d.OutTemp = +d.OutTemp;
+		d.OutHumid = +d.OutHumid;
+    d.InTemp = +d.InTemp;
+		d.InHumid = +d.InHumid;
+		d.Fan = +d.Fan;
+		d.AC = +d.AC;
+		d.Heat = +d.Heat;
+    });
 
-  var vars = color.domain().map(function(name) {
-    return {
-      name: name,
-      values: data.map(function(d) {
-        return {date: d.Time, temperature: +d[name]};
-      })
-    };
-  });
-
-  x.domain(d3.extent(data, function(d) { return d.date; }));
-
-  y.domain([
-    d3.min(vars, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
-    d3.max(vars, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); })
-  ]);
-
-  svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
-
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Temperature (ºF)");
-
-  var city = svg.selectAll(".city")
-      .data(vars)
-    .enter().append("g")
-      .attr("class", "city");
-
-  city.append("path")
-      .attr("class", "line")
-      .attr("d", function(d) { return line(d.values); })
-      .attr("data-legend",function(d) { return d.name})
-      .style("stroke", function(d) { return color(d.name); });
-
-  city.append("text")
-      .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; })
-      .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.temperature) + ")"; })
-      .attr("x", 3)
-      .attr("dy", ".35em")
-      .text(function(d) { return d.name; });
-
-
-  legend = svg.append("g")
-    .attr("class","legend")
-    .attr("transform","translate(50,30)")
-    .style("font-size","12px")
-    .call(d3.legend)
-
-  setTimeout(function() { 
-    legend
-      .style("font-size","20px")
-      .attr("data-style-padding",10)
-      .call(d3.legend)
-  },1000)
-
+  // Scale the range of the data
+	x.domain(d3.extent(data, function(d) { return d.Time; }));
+	y.domain([0, d3.max(data, function(d) { return Math.max(d.OutTemp, d.InTemp); })]);
+  
+	svg.append("path")		// Add the valueline path.
+		.attr("class", "line")
+		.attr("d", valueline(data));
+  
+	svg.append("path")		// Add the valueline2 path.
+		.attr("class", "line")
+		.style("stroke", "red")
+		.attr("d", valueline2(data));
+  
+	svg.append("g")			// Add the X Axis
+		.attr("class", "x axis")
+		.attr("transform", "translate(0," + height + ")")
+		.call(xAxis);
+  
+	svg.append("g")			// Add the Y Axis
+		.attr("class", "y axis")
+		.call(yAxis);
+  
+	svg.append("text")
+		.attr("transform", "translate(" + (width+3) + "," + y(d.InTemp) + ")")
+		.attr("dy", ".35em")
+		.attr("text-anchor", "start")
+		.style("fill", "red")
+		.text("In Temp");
+  
+	svg.append("text")
+		.attr("transform", "translate(" + (width+3) + "," + y(d.OutTemp) + ")")
+		.attr("dy", ".35em")
+		.attr("text-anchor", "start")
+		.style("fill", "steelblue")
+		.text("Out Temp");
+  
+	legend = svg.append("g")
+    		.attr("class","legend")
+    		.attr("transform","translate(50,30)")
+    		.style("font-size","12px")
+    		.call(d3.legend)
 });
-
+  
 </script>
+</body>
