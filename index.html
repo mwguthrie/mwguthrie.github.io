@@ -98,16 +98,20 @@ d3.csv(dropbox_url, function(error, data) {
         .attr("transform", "translate(0," + height + ")")
         .call(xAxis);
 
-    svg.append("g")
-        .attr("class", "y axis")
-        .style("fill", "steelblue")
-        .call(yAxisLeft);	
+//    svg.append("g")
+//        .attr("class", "y axis")
+//        .style("fill", "steelblue")
+//        .call(yAxisLeft);	
 
-    svg.append("g")				
-        .attr("class", "y axis")	
-        .attr("transform", "translate(" + width + " ,0)")	
-        .style("fill", "red")		
-        .call(yAxisRight);
+//    svg.append("g")				
+//        .attr("class", "y axis")	
+//        .attr("transform", "translate(" + width + " ,0)")	
+//        .style("fill", "red")		
+//        .call(yAxisRight);
+	
+	svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
 
 });
 
