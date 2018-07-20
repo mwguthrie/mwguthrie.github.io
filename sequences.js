@@ -10,10 +10,10 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "Module": "blue",
-  "Pre-Learning": "red",
-  "Learning": "green",
-  "Post-Learning": "orange"
+  "Module": "#a173d1",
+  "Pre-Learning": "#6ab975",
+  "Learning": "#de783b",
+  "Post-Learning": "#7b615c"
 };
 
 // Total size of all segments; we set this later, after loading the data.
