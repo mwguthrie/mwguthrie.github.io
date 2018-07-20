@@ -159,9 +159,9 @@ function breadcrumbPoints(d, i) {
   points.push(b.w + b.t + "," + (b.h / 2));
   points.push(b.w + "," + b.h);
   points.push("0," + b.h);
-  if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
-    points.push(b.t + "," + (b.h / 2));
-  }
+//  if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
+//    points.push(b.t + "," + (b.h / 2));
+//  }
   return points.join(" ");
 }
 
