@@ -5,7 +5,7 @@ var radius = Math.min(width, height) / 2;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
-  w: 75, h: 30, s: 3, t: 10
+  w: 300, h: 30, s: 3, t: 10
 };
 
 // Mapping of step names to colors.
@@ -159,12 +159,12 @@ function initializeBreadcrumbTrail() {
 function breadcrumbPoints(d, i) {
   var points = [];
   points.push("0,0");
-  points.push(b.w*5 + ",0");
-  points.push(b.w*5 + b.t*5 + "," + (b.h*5 / 2));
-  points.push(b.w*5 + "," + b.h*5);
-  points.push("0," + b.h*5);
+  points.push(b.w + ",0");
+  points.push(b.w + b.t + "," + (b.h / 2));
+  points.push(b.w + "," + b.h);
+  points.push("0," + b.h);
   if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
-    points.push(b.t*5 + "," + (b.h*5 / 2));
+    points.push(b.t + "," + (b.h / 2));
   }
   return points.join(" ");
 }
