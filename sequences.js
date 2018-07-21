@@ -152,19 +152,19 @@ function initializeBreadcrumbTrail() {
   // Add the label at the end, for the percentage.
   trail.append("svg:text")
     .attr("id", "endlabel")
-    .style("fill", "#000");
+    .style("fill", "#fff");
 }
 
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
   var points = [];
   points.push("0,0");
-  points.push(b.w + ",0");
-  points.push(b.w + b.t + "," + (b.h / 2));
-  points.push(b.w + "," + b.h);
-  points.push("0," + b.h);
+  points.push(b.w*5 + ",0");
+  points.push(b.w*5 + b.t*5 + "," + (b.h*5 / 2));
+  points.push(b.w*5 + "," + b.h*5);
+  points.push("0," + b.h*5);
   if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
-    points.push(b.t + "," + (b.h / 2));
+    points.push(b.t*5 + "," + (b.h*5 / 2));
   }
   return points.join(" ");
 }
