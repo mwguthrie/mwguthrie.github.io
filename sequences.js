@@ -146,7 +146,7 @@ function mouseleave(d) {
 function initializeBreadcrumbTrail() {
   // Add the svg area.
   var trail = d3.select("#sequence").append("svg:svg")
-      .attr("width", width)
+      .attr("width", width*5)
       .attr("height", 50)
       .attr("id", "trail");
   // Add the label at the end, for the percentage.
