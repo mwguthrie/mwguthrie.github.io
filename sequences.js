@@ -10,14 +10,14 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "BP": "#313F47",
-  "BF": "#1A2A33",
-  "NP": "#2D4B49",
-  "NF": "#183A37",
-  "EP": "#9CE0E1",
-  "EF": "#63AFB0",
-  "B": "#F4F1BB",
-  "N": "#EFD6AC"
+  "BP": "#ffffd9",
+  "BF": "#edf8b1",
+  "NP": "#c7e9b4",
+  "NF": "#7fcdbb",
+  "EP": "#41b6c4",
+  "EF": "#1d91c0",
+  "B": "#225ea8",
+  "N": "#0c2c84"
 };
 
 // Total size of all segments; we set this later, after loading the data.
