@@ -16,7 +16,8 @@ var colors = {
   "NP": "#6ab975",
   "N": "#a173d1",
   "BP": "#bbbbbb",
-  "EP": "#363636"
+  "EP": "red",
+  "EF": "yellow"
 };
 
 // Total size of all segments; we set this later, after loading the data.
