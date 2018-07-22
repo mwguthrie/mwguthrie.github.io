@@ -40,12 +40,12 @@ var vis = d3.select("#chart").append("svg:svg")
     .attr("id", "container")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-var partition = d3.layout.partition()
-    .sort(function(a, b) { return d3.ascending(a.name, b.name); })
-    .value(function(d) { return d.size; });
+//var partition = d3.layout.partition()
+//   .sort(function(a, b) { return d3.ascending(a.name, b.name); })
+//    .value(function(d) { return d.size; });
 
-//var partition = d3.partition()
-//   .size([2 * Math.PI, radius * radius]);
+var partition = d3.partition()
+   .size([2 * Math.PI, radius * radius]);
 
 var arc = d3.arc()
     .startAngle(function(d) { return d.x0; })
