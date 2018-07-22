@@ -1,0 +1,16 @@
+sequence,n
+Potential Energy-BF-B-BF,1
+Potential Energy-BF-B-NF,1
+Potential Energy-BF-B-NP,1
+Potential Energy-BF-N-NF,5
+Potential Energy-BF-N-NP,6
+Potential Energy-NF-B-BF,1
+Potential Energy-NF-B-NF,18
+Potential Energy-NF-B-NP,11
+Potential Energy-NF-B,1
+Potential Energy-NF-N-BF,6
+Potential Energy-NF-N-BP,4
+Potential Energy-NF-N-NF,35
+Potential Energy-NF-N-NP,63
+Potential Energy-NF-N,2
+Potential Energy-NP,47
