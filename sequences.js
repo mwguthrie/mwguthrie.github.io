@@ -10,14 +10,14 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "BP": "#d73027",
-  "BF": "#f46d43",
-  "NP": "#fdae61",
-  "NF": "#fee090",
-  "EP": "#e0f3f8",
-  "EF": "#abd9e9",
-  "B": "#74add1",
-  "N": "#4575b4",
+  "BP": "#9dc3f3",
+  "BF": "#f3b19d",
+  "NP": "#0078ff",
+  "NF": "#ff3c00",
+  "EP": "#00428c",
+  "EF": "#b42900",
+  "B": "#fee090",
+  "N": "#fdae61",
   "Kinetic Energy": "#ffffff",
   "Work by a constant force": "#ffffff",
   "Work and Kinetic Energy": "#ffffff",
