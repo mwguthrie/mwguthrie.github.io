@@ -78,7 +78,8 @@ function createVisualization(json) {
   // Turn the data into a d3 hierarchy and calculate the sums.
   var root = d3.hierarchy(json)
       .sum(function(d) { return d.size; })
-      .sort(function(a, b) { return b.value - a.value; });
+      //.sort(function(a, b) { return b.value - a.value; });
+      .sort(null);
   
   // For efficiency, filter nodes to keep only those large enough to see.
   var nodes = partition(root).descendants()
