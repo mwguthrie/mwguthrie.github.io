@@ -17,17 +17,17 @@ var colors = {
   "EP": "#00428c",
   "EF": "#b42900",
   "B": "#f7ebcb",
-  "N": "#fdae61",
-  "Kinetic Energy": "#ffffff",
-  "Work by a constant force": "#ffffff",
-  "Work and Kinetic Energy": "#ffffff",
-  "Potential Energy": "#ffffff",
-  "When is Mechanical Energy Conserved": "#ffffff",
-  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
-  "Problems Using Conservation of Mechanical Energy": "#ffffff",
-  "Problems with Two Types of Potential Energy": "#ffffff",
-  "Mechanical Energy and Nonconservative Work": "#ffffff",
-  "More mechanical energy problems": "#ffffff"
+  "N": "#fdae61"
+//  "Kinetic Energy": "#ffffff",
+//  "Work by a constant force": "#ffffff",
+//  "Work and Kinetic Energy": "#ffffff",
+//  "Potential Energy": "#ffffff",
+//  "When is Mechanical Energy Conserved": "#ffffff",
+//  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
+//  "Problems Using Conservation of Mechanical Energy": "#ffffff",
+//  "Problems with Two Types of Potential Energy": "#ffffff",
+// "Mechanical Energy and Nonconservative Work": "#ffffff",
+//  "More mechanical energy problems": "#ffffff"
 };
 
 // Total size of all segments; we set this later, after loading the data.
