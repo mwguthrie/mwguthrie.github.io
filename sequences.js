@@ -21,7 +21,7 @@ var colors = {
   "": "#ffffff",
 //  "Kinetic Energy": "#ffffff",
 //  "Work by a constant force": "#ffffff",
-//  "Work and Kinetic Energy": "#ffffff",
+  "Work and Kinetic Energy": "#ffffff",
 //  "Potential Energy": "#ffffff",
 //  "When is Mechanical Energy Conserved": "#ffffff",
 //  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
