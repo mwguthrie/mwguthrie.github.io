@@ -18,7 +18,7 @@ var colors = {
   "EF": "#b42900",
   "B": "#f7ebcb",
   "N": "#fdae61",
-  "": "#ffffff"
+  "": "#ffffff",
 //  "Kinetic Energy": "#ffffff",
 //  "Work by a constant force": "#ffffff",
 //  "Work and Kinetic Energy": "#ffffff",
@@ -27,7 +27,7 @@ var colors = {
 //  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
 //  "Problems Using Conservation of Mechanical Energy": "#ffffff",
 //  "Problems with Two Types of Potential Energy": "#ffffff",
-// "Mechanical Energy and Nonconservative Work": "#ffffff",
+ "Mechanical Energy and Nonconservative Work": "#ffffff"
 //  "More mechanical energy problems": "#ffffff"
 };
 
