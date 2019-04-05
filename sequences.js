@@ -18,7 +18,7 @@ var colors = {
   "EF": "#b42900",
   "B": "#f7ebcb",
   "N": "#fdae61",
-  "Other": "#6f7678",
+  "Other": "#403f4c",
   "": "#ffffff",
   "Kinetic Energy": "#ffffff"
   //"Work by a constant force": "#ffffff",
