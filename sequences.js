@@ -18,17 +18,18 @@ var colors = {
   "EF": "#b42900",
   "B": "#f7ebcb",
   "N": "#fdae61",
+  "Other": "#6f7678",
   "": "#ffffff",
-//  "Kinetic Energy": "#ffffff",
-//  "Work by a constant force": "#ffffff",
+  "Kinetic Energy": "#ffffff",
+  "Work by a constant force": "#ffffff",
   "Work and Kinetic Energy": "#ffffff",
-//  "Potential Energy": "#ffffff",
-//  "When is Mechanical Energy Conserved": "#ffffff",
-//  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
-//  "Problems Using Conservation of Mechanical Energy": "#ffffff",
-//  "Problems with Two Types of Potential Energy": "#ffffff",
- "Mechanical Energy and Nonconservative Work": "#ffffff"
-//  "More mechanical energy problems": "#ffffff"
+  "Potential Energy": "#ffffff",
+  "When is Mechanical Energy Conserved": "#ffffff",
+  "Simple Application of Conservation of Mechanical Energy": "#ffffff",
+  "Problems Using Conservation of Mechanical Energy": "#ffffff",
+  "Problems with Two Types of Potential Energy": "#ffffff",
+  "Mechanical Energy and Nonconservative Work": "#ffffff",
+  "More mechanical energy problems": "#ffffff"
 };
 
 // Total size of all segments; we set this later, after loading the data.
@@ -56,7 +57,7 @@ var arc = d3.arc()
 //////////////////////////////////////////////////////////////////////////////
 // Use d3.text and d3.csvParseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.text("sequences_WAKE.csv", function(text) {
+d3.text("sequences_New_WAKE_Other.csv", function(text) {
   var csv = d3.csvParseRows(text);
   var json = buildHierarchy(csv);
   createVisualization(json);
