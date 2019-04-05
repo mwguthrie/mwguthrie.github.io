@@ -1,0 +1,2239 @@
+userid,modulename,PreLearn,Learning,PostLearning
+10,Kinetic Energy,Other_NA,NA,NA
+74,Kinetic Energy,NF,N,EP
+74,Work by a constant force,NF,N,BP
+74,Work and Kinetic Energy,NF,N,BF
+74,Potential Energy,NF,N,NF
+74,When is Mechanical Energy Conserved,NF,N,EF
+74,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+74,Problems Using Conservation of Mechanical Energy,NF,N,EF
+74,Problems with Two Types of Potential Energy,BF,N,NP
+74,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+74,More mechanical energy problems,BF,N,EF
+2315,Kinetic Energy,NF,N,NF
+2315,Work by a constant force,NF,N,BF
+2315,Potential Energy,NF,N,BP
+2315,When is Mechanical Energy Conserved,NF,N,NF
+2315,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+2315,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2315,Problems with Two Types of Potential Energy,Other_F,NA,NA
+2315,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2315,More mechanical energy problems,NF,N,EP
+2318,Kinetic Energy,NF,B,NP
+2318,Work by a constant force,Other_F,NA,NA
+2318,Work and Kinetic Energy,BP,NA,NA
+2318,Potential Energy,NF,N,NP
+2318,When is Mechanical Energy Conserved,NF,N,BF
+2318,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2318,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2318,Problems with Two Types of Potential Energy,BP,NA,NA
+2318,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2318,More mechanical energy problems,Other_F,NA,NA
+2319,Kinetic Energy,NF,N,EP
+2319,Work by a constant force,NF,N,BP
+2319,Work and Kinetic Energy,BP,NA,NA
+2319,Potential Energy,NF,N,NP
+2319,When is Mechanical Energy Conserved,NF,N,NF
+2319,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2319,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2319,Problems with Two Types of Potential Energy,BF,N,BP
+2319,Mechanical Energy and Non-Conservative Work,BF,N,NF
+2319,More mechanical energy problems,BF,B,BF
+2327,Kinetic Energy,Other_F,NA,NA
+2327,Work by a constant force,NF,B,BP
+2327,Potential Energy,BF,B,BF
+2327,When is Mechanical Energy Conserved,NF,N,EF
+2327,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+2327,Problems Using Conservation of Mechanical Energy,BF,B,BF
+2327,Problems with Two Types of Potential Energy,BP,NA,NA
+2327,Mechanical Energy and Non-Conservative Work,NF,B,BP
+2327,More mechanical energy problems,Other_P,NA,NA
+2328,Kinetic Energy,NP,NA,NA
+2328,Work by a constant force,NP,NA,NA
+2328,Work and Kinetic Energy,NP,NA,NA
+2328,Potential Energy,NF,N,NP
+2328,When is Mechanical Energy Conserved,NF,N,NP
+2328,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2328,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2328,Problems with Two Types of Potential Energy,NP,NA,NA
+2328,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2328,More mechanical energy problems,NF,N,EF
+2341,Kinetic Energy,NP,NA,NA
+2341,Work by a constant force,Other_P,NA,NA
+2341,Work and Kinetic Energy,NF,N,NP
+2341,Potential Energy,NF,N,NP
+2341,When is Mechanical Energy Conserved,NF,N,NP
+2341,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2341,Problems Using Conservation of Mechanical Energy,NF,N,BF
+2341,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+2341,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2341,More mechanical energy problems,NF,B,BF
+2350,Kinetic Energy,NP,NA,NA
+2350,Work by a constant force,NF,B,NF
+2350,Work and Kinetic Energy,NP,NA,NA
+2350,Potential Energy,Other_NA,NA,NA
+2350,When is Mechanical Energy Conserved,Other_P,NA,NA
+2350,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2350,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2350,Problems with Two Types of Potential Energy,NP,NA,NA
+2350,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2350,More mechanical energy problems,NF,N,EF
+2351,Kinetic Energy,NP,NA,NA
+2351,Work by a constant force,NP,NA,NA
+2351,Work and Kinetic Energy,NP,NA,NA
+2351,Potential Energy,NP,NA,NA
+2351,When is Mechanical Energy Conserved,Other_F,NA,NA
+2351,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2351,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2351,Problems with Two Types of Potential Energy,NF,B,EP
+2351,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2351,More mechanical energy problems,NP,NA,NA
+2352,Kinetic Energy,NF,N,NF
+2352,Work by a constant force,NF,N,BP
+2352,Work and Kinetic Energy,NF,N,NP
+2352,Potential Energy,NF,N,NF
+2352,When is Mechanical Energy Conserved,NF,N,NP
+2352,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2352,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2352,Problems with Two Types of Potential Energy,BP,NA,NA
+2352,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2352,More mechanical energy problems,NF,N,EP
+2358,Kinetic Energy,NF,N,EP
+2358,Work by a constant force,NF,N,BF
+2358,Work and Kinetic Energy,NP,NA,NA
+2358,Potential Energy,NP,NA,NA
+2358,When is Mechanical Energy Conserved,NF,N,NP
+2358,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2358,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2358,Problems with Two Types of Potential Energy,NF,B,EP
+2358,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2358,More mechanical energy problems,NF,B,NP
+2367,Kinetic Energy,NP,NA,NA
+2367,Work by a constant force,NF,N,BP
+2367,Work and Kinetic Energy,NP,NA,NA
+2367,Potential Energy,BF,N,NF
+2367,When is Mechanical Energy Conserved,NF,N,EP
+2367,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2367,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2367,Problems with Two Types of Potential Energy,NP,NA,NA
+2367,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2367,More mechanical energy problems,NF,N,EP
+2377,Kinetic Energy,Other_F,NA,NA
+2377,Work by a constant force,BF,B,BP
+2377,Work and Kinetic Energy,NF,B,BF
+2377,Potential Energy,NF,B,NF
+2377,When is Mechanical Energy Conserved,BF,N,BF
+2377,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+2377,Problems Using Conservation of Mechanical Energy,BF,B,BF
+2377,Problems with Two Types of Potential Energy,BF,B,BP
+2377,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2377,More mechanical energy problems,BF,B,BF
+2383,Kinetic Energy,NF,N,EP
+2383,Work by a constant force,NF,N,NP
+2383,Work and Kinetic Energy,NF,N,NP
+2383,Potential Energy,NF,N,NP
+2383,When is Mechanical Energy Conserved,NF,N,NP
+2383,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2383,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2383,Problems with Two Types of Potential Energy,BP,NA,NA
+2383,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2383,More mechanical energy problems,NP,NA,NA
+2386,Kinetic Energy,NF,B,EP
+2386,Work by a constant force,NF,N,BF
+2386,Work and Kinetic Energy,NP,NA,NA
+2386,Potential Energy,NF,N,NF
+2386,When is Mechanical Energy Conserved,NF,N,NP
+2386,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2386,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2386,Problems with Two Types of Potential Energy,NF,B,EF
+2386,Mechanical Energy and Non-Conservative Work,BF,N,EP
+2386,More mechanical energy problems,NF,N,EP
+2388,Kinetic Energy,Other_F,NA,NA
+2388,Work by a constant force,NF,N,BP
+2388,Work and Kinetic Energy,NF,B,NP
+2388,Potential Energy,NP,NA,NA
+2388,When is Mechanical Energy Conserved,NF,N,NP
+2388,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2388,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2388,Problems with Two Types of Potential Energy,NF,B,BF
+2388,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2388,More mechanical energy problems,NF,B,BP
+2389,Kinetic Energy,NF,N,EP
+2389,Work by a constant force,NF,N,BF
+2389,Work and Kinetic Energy,NF,N,EP
+2389,Potential Energy,NF,N,NP
+2389,When is Mechanical Energy Conserved,NF,N,EF
+2389,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2389,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2389,Problems with Two Types of Potential Energy,NP,NA,NA
+2389,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2389,More mechanical energy problems,NP,NA,NA
+2390,Kinetic Energy,NF,B,EP
+2390,Work by a constant force,NF,N,BF
+2390,Potential Energy,Other_F,NA,NA
+2390,When is Mechanical Energy Conserved,NF,N,NF
+2390,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2390,Problems Using Conservation of Mechanical Energy,NF,B,NF
+2390,Problems with Two Types of Potential Energy,Other_F,NA,NA
+2390,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2390,More mechanical energy problems,NF,B,BF
+2391,Kinetic Energy,NF,N,EP
+2391,Work by a constant force,NF,N,BP
+2391,Work and Kinetic Energy,NF,N,NF
+2391,Potential Energy,NF,N,NP
+2391,When is Mechanical Energy Conserved,NF,B,BF
+2391,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2391,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2391,Problems with Two Types of Potential Energy,NF,N,BF
+2391,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2391,More mechanical energy problems,NF,N,EF
+2392,Kinetic Energy,NF,N,EP
+2392,Work by a constant force,NF,N,BF
+2392,Potential Energy,NF,N,NP
+2392,When is Mechanical Energy Conserved,BF,N,NP
+2392,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2392,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2392,Problems with Two Types of Potential Energy,NF,N,EF
+2392,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2392,More mechanical energy problems,NF,N,EP
+2397,Kinetic Energy,NF,N,EP
+2397,Work by a constant force,NF,N,BP
+2397,Potential Energy,NF,B,NF
+2397,When is Mechanical Energy Conserved,NF,N,EP
+2397,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2397,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2397,Problems with Two Types of Potential Energy,NP,NA,NA
+2397,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2397,More mechanical energy problems,NF,N,NP
+2398,Kinetic Energy,Other_F,NA,NA
+2398,Work by a constant force,NF,N,NP
+2398,Work and Kinetic Energy,NP,NA,NA
+2398,Potential Energy,NF,N,NP
+2398,When is Mechanical Energy Conserved,NF,B,EP
+2398,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2398,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2398,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2398,More mechanical energy problems,Other_P,NA,NA
+2400,Kinetic Energy,NF,N,EP
+2400,Work by a constant force,NF,N,BP
+2400,Work and Kinetic Energy,NP,NA,NA
+2400,Potential Energy,NF,N,NP
+2400,When is Mechanical Energy Conserved,NF,N,NP
+2400,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2400,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2400,Problems with Two Types of Potential Energy,NP,NA,NA
+2400,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2400,More mechanical energy problems,NF,N,NP
+2409,Kinetic Energy,NP,NA,NA
+2409,Work by a constant force,BP,NA,NA
+2409,Work and Kinetic Energy,NP,NA,NA
+2409,Potential Energy,NP,NA,NA
+2409,Simple Application of Conservation of Mechanical Energy,BP,NA,NA
+2409,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2409,Problems with Two Types of Potential Energy,Other_F,NA,NA
+2409,Mechanical Energy and Non-Conservative Work,BF,B,NF
+2409,More mechanical energy problems,NF,B,BF
+2414,Kinetic Energy,NF,N,EP
+2414,Work by a constant force,NF,N,BP
+2414,Work and Kinetic Energy,NP,NA,NA
+2414,Potential Energy,NF,N,NP
+2414,When is Mechanical Energy Conserved,NF,B,NF
+2414,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2414,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2414,Problems with Two Types of Potential Energy,BF,B,NF
+2414,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2414,More mechanical energy problems,BF,N,NF
+2416,Kinetic Energy,Other_F,NA,NA
+2416,Work by a constant force,NP,NA,NA
+2416,Work and Kinetic Energy,Other_F,NA,NA
+2416,Potential Energy,NF,N,NF
+2416,When is Mechanical Energy Conserved,NF,N,EP
+2416,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+2416,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2416,Problems with Two Types of Potential Energy,NF,B,BP
+2416,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2416,More mechanical energy problems,BP,NA,NA
+2420,Kinetic Energy,NF,N,EP
+2420,Work by a constant force,NF,N,BP
+2420,Work and Kinetic Energy,NP,NA,NA
+2420,Potential Energy,NF,B,NF
+2420,When is Mechanical Energy Conserved,Other_NA,NA,NA
+2420,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+2420,Problems Using Conservation of Mechanical Energy,NF,N,BF
+2420,Problems with Two Types of Potential Energy,BP,NA,NA
+2420,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2420,More mechanical energy problems,BP,NA,NA
+2422,Kinetic Energy,NF,N,NP
+2422,Work by a constant force,NF,N,NP
+2422,Work and Kinetic Energy,NP,NA,NA
+2422,Potential Energy,NF,N,NP
+2422,When is Mechanical Energy Conserved,NF,N,NP
+2422,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2422,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2422,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+2422,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+2422,More mechanical energy problems,Other_P,NA,NA
+2424,Kinetic Energy,NP,NA,NA
+2424,Work by a constant force,Other_P,NA,NA
+2424,Work and Kinetic Energy,NP,NA,NA
+2424,Potential Energy,NP,NA,NA
+2424,When is Mechanical Energy Conserved,NF,N,NA
+2424,Simple Application of Conservation of Mechanical Energy,NF,N,NF
+2424,Problems Using Conservation of Mechanical Energy,NF,B,EF
+2424,Problems with Two Types of Potential Energy,NP,NA,NA
+2424,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2424,More mechanical energy problems,NF,N,BF
+2425,Kinetic Energy,NP,NA,NA
+2425,Work by a constant force,NF,N,EP
+2425,Work and Kinetic Energy,NP,NA,NA
+2425,Potential Energy,Other_P,NA,NA
+2425,When is Mechanical Energy Conserved,NF,B,NA
+2425,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2425,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2425,Problems with Two Types of Potential Energy,NP,NA,NA
+2425,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2425,More mechanical energy problems,NF,N,EP
+2435,Kinetic Energy,NF,N,NP
+2435,Work by a constant force,BF,N,BP
+2435,Work and Kinetic Energy,BF,N,NP
+2435,Potential Energy,NF,N,NP
+2435,When is Mechanical Energy Conserved,NF,N,NP
+2435,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2435,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2435,Problems with Two Types of Potential Energy,BF,N,EP
+2435,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2435,More mechanical energy problems,Other_P,NA,NA
+2442,Kinetic Energy,NF,N,EF
+2442,Work by a constant force,NF,N,NP
+2442,Work and Kinetic Energy,NF,N,EP
+2442,Potential Energy,NP,NA,NA
+2442,When is Mechanical Energy Conserved,NF,N,EF
+2442,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2442,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2442,Problems with Two Types of Potential Energy,NF,N,EF
+2442,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2442,More mechanical energy problems,NF,N,EP
+2443,Kinetic Energy,Other_NA,NA,NA
+2443,Work by a constant force,NF,B,NP
+2443,Work and Kinetic Energy,NP,NA,NA
+2443,Potential Energy,NP,NA,NA
+2443,When is Mechanical Energy Conserved,NF,N,BF
+2443,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2443,Problems Using Conservation of Mechanical Energy,BF,N,NA
+2443,Problems with Two Types of Potential Energy,NP,NA,NA
+2443,Mechanical Energy and Non-Conservative Work,NF,N,BP
+2443,More mechanical energy problems,NF,N,BF
+2446,Kinetic Energy,NF,N,NP
+2446,Work by a constant force,NP,NA,NA
+2446,Work and Kinetic Energy,NF,N,NP
+2446,Potential Energy,NF,B,NA
+2446,When is Mechanical Energy Conserved,NF,N,NF
+2446,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2446,Problems Using Conservation of Mechanical Energy,NF,B,NF
+2446,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2446,Mechanical Energy and Non-Conservative Work,BF,B,BF
+2446,More mechanical energy problems,BF,B,BF
+2448,Kinetic Energy,NF,N,EP
+2448,Work by a constant force,NF,N,EF
+2448,Potential Energy,NF,N,NF
+2448,When is Mechanical Energy Conserved,BF,N,NP
+2448,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2448,Problems Using Conservation of Mechanical Energy,BF,N,BF
+2448,Problems with Two Types of Potential Energy,NF,N,BP
+2448,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2448,More mechanical energy problems,Other_P,NA,NA
+2458,Kinetic Energy,Other_F,NA,NA
+2458,Work by a constant force,NF,N,BP
+2458,Work and Kinetic Energy,NF,N,NP
+2458,Potential Energy,NP,NA,NA
+2458,When is Mechanical Energy Conserved,NF,N,NP
+2458,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2458,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2458,Problems with Two Types of Potential Energy,NP,NA,NA
+2458,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2458,More mechanical energy problems,BF,B,BP
+2461,Kinetic Energy,NF,N,EP
+2461,Work by a constant force,NF,N,BP
+2461,Work and Kinetic Energy,NP,NA,NA
+2461,Potential Energy,NF,N,EF
+2461,When is Mechanical Energy Conserved,NF,B,NP
+2461,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2461,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2461,Problems with Two Types of Potential Energy,NP,NA,NA
+2461,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+2461,More mechanical energy problems,NF,N,BP
+2477,Kinetic Energy,NP,NA,NA
+2477,Work by a constant force,NP,NA,NA
+2477,Work and Kinetic Energy,Other_P,NA,NA
+2477,Potential Energy,Other_P,NA,NA
+2477,When is Mechanical Energy Conserved,Other_F,NA,NA
+2477,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2477,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2477,Problems with Two Types of Potential Energy,NP,NA,NA
+2477,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2477,More mechanical energy problems,Other_NA,NA,NA
+2485,Kinetic Energy,NP,NA,NA
+2485,Work by a constant force,NF,B,EP
+2485,Work and Kinetic Energy,NF,B,EP
+2485,Potential Energy,NF,N,NP
+2485,When is Mechanical Energy Conserved,NF,N,NF
+2485,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2485,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2485,Problems with Two Types of Potential Energy,NP,NA,NA
+2485,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2485,More mechanical energy problems,NF,N,EP
+2492,Kinetic Energy,NF,B,NF
+2492,Work by a constant force,Other_F,NA,NA
+2492,Work and Kinetic Energy,NF,B,EF
+2492,Potential Energy,BF,B,EP
+2492,When is Mechanical Energy Conserved,NF,B,NP
+2492,Simple Application of Conservation of Mechanical Energy,BP,NA,NA
+2492,Problems Using Conservation of Mechanical Energy,BF,B,EF
+2492,Problems with Two Types of Potential Energy,NF,B,EP
+2492,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2492,More mechanical energy problems,BF,B,NP
+2495,Kinetic Energy,NP,NA,NA
+2495,Work by a constant force,NF,N,BP
+2495,Work and Kinetic Energy,NF,N,EP
+2495,Potential Energy,NF,N,NP
+2495,When is Mechanical Energy Conserved,NF,N,NF
+2495,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2495,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2495,Problems with Two Types of Potential Energy,NF,N,BF
+2495,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2495,More mechanical energy problems,NP,NA,NA
+2496,Kinetic Energy,NF,N,EP
+2496,Work by a constant force,NF,N,BP
+2496,Work and Kinetic Energy,BF,N,EP
+2496,Potential Energy,NF,N,NP
+2496,When is Mechanical Energy Conserved,NF,N,NF
+2496,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2496,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2496,Problems with Two Types of Potential Energy,NF,N,BP
+2496,Mechanical Energy and Non-Conservative Work,BF,N,NP
+2496,More mechanical energy problems,NP,NA,NA
+2498,Kinetic Energy,Other_NA,NA,NA
+2498,Work by a constant force,Other_F,NA,NA
+2498,Potential Energy,NF,N,NP
+2498,When is Mechanical Energy Conserved,NF,N,NF
+2498,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2498,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2498,Problems with Two Types of Potential Energy,BP,NA,NA
+2498,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2498,More mechanical energy problems,NF,N,EP
+2502,Kinetic Energy,NP,NA,NA
+2502,Work by a constant force,NP,NA,NA
+2502,Work and Kinetic Energy,NP,NA,NA
+2502,Potential Energy,Other_NA,NA,NA
+2502,When is Mechanical Energy Conserved,NF,N,NP
+2502,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+2502,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2502,Problems with Two Types of Potential Energy,NF,N,EP
+2502,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2502,More mechanical energy problems,NF,N,EP
+2504,Kinetic Energy,NF,N,EP
+2504,Work by a constant force,NF,B,BP
+2504,Work and Kinetic Energy,NP,NA,NA
+2504,Potential Energy,Other_F,NA,NA
+2504,When is Mechanical Energy Conserved,NP,NA,NA
+2504,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2504,Problems Using Conservation of Mechanical Energy,NF,B,NF
+2504,Problems with Two Types of Potential Energy,BP,NA,NA
+2504,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2504,More mechanical energy problems,Other_F,NA,NA
+2506,Kinetic Energy,NF,B,EP
+2506,Work by a constant force,NF,N,BP
+2506,Work and Kinetic Energy,NP,NA,NA
+2506,Potential Energy,NF,B,NF
+2506,When is Mechanical Energy Conserved,NF,N,NP
+2506,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2506,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2506,Problems with Two Types of Potential Energy,NP,NA,NA
+2506,Mechanical Energy and Non-Conservative Work,NF,B,NF
+2506,More mechanical energy problems,Other_P,NA,NA
+2507,Kinetic Energy,NF,N,NP
+2507,Work by a constant force,NF,N,BP
+2507,Work and Kinetic Energy,NF,N,EP
+2507,Potential Energy,NF,N,NF
+2507,When is Mechanical Energy Conserved,NF,N,NP
+2507,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2507,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2507,Problems with Two Types of Potential Energy,NP,NA,NA
+2507,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2507,More mechanical energy problems,NP,NA,NA
+2508,Kinetic Energy,NF,N,EF
+2508,Work by a constant force,NF,N,BP
+2508,Work and Kinetic Energy,BP,NA,NA
+2508,Potential Energy,BF,N,NP
+2508,When is Mechanical Energy Conserved,Other_F,NA,NA
+2508,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2508,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2508,Problems with Two Types of Potential Energy,NF,N,NA
+2508,Mechanical Energy and Non-Conservative Work,BF,N,EF
+2508,More mechanical energy problems,BF,N,NF
+2512,Kinetic Energy,Other_F,NA,NA
+2512,Work by a constant force,BP,NA,NA
+2512,Work and Kinetic Energy,NF,N,EP
+2512,Potential Energy,NF,B,NP
+2512,When is Mechanical Energy Conserved,NF,B,NP
+2512,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2512,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2512,Problems with Two Types of Potential Energy,Other_F,NA,NA
+2512,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+2512,More mechanical energy problems,Other_F,NA,NA
+2513,Kinetic Energy,Other_NA,NA,NA
+2513,Work by a constant force,NF,N,BP
+2513,Work and Kinetic Energy,NP,NA,NA
+2513,Potential Energy,NF,N,NP
+2513,When is Mechanical Energy Conserved,Other_F,NA,NA
+2513,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+2513,Problems with Two Types of Potential Energy,NF,B,EP
+2513,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2513,More mechanical energy problems,BF,N,NF
+2514,Kinetic Energy,NF,N,EP
+2514,Work by a constant force,Other_F,NA,NA
+2514,Work and Kinetic Energy,NP,NA,NA
+2514,Potential Energy,Other_F,NA,NA
+2514,When is Mechanical Energy Conserved,NF,N,NF
+2514,Simple Application of Conservation of Mechanical Energy,NF,N,BF
+2514,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2514,Problems with Two Types of Potential Energy,BF,N,EF
+2514,Mechanical Energy and Non-Conservative Work,BF,N,BP
+2514,More mechanical energy problems,BF,N,BF
+2515,Kinetic Energy,NF,N,EP
+2515,Work by a constant force,BF,N,BF
+2515,Work and Kinetic Energy,BP,NA,NA
+2515,Potential Energy,Other_NA,NA,NA
+2515,When is Mechanical Energy Conserved,NF,N,BF
+2515,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2515,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2515,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2515,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2515,More mechanical energy problems,Other_P,NA,NA
+2519,Kinetic Energy,NF,N,EP
+2519,Work by a constant force,NF,N,NP
+2519,Work and Kinetic Energy,NF,N,NP
+2519,Potential Energy,NF,N,NF
+2519,When is Mechanical Energy Conserved,NF,N,NP
+2519,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2519,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2519,Problems with Two Types of Potential Energy,NF,N,NP
+2519,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2519,More mechanical energy problems,NF,N,EF
+2523,Kinetic Energy,NF,N,EP
+2523,Work by a constant force,NF,N,NF
+2523,Work and Kinetic Energy,NF,N,NF
+2523,Potential Energy,NF,N,NF
+2523,When is Mechanical Energy Conserved,NF,N,EF
+2523,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2523,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2523,Problems with Two Types of Potential Energy,NP,NA,NA
+2523,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2523,More mechanical energy problems,NF,N,NF
+2529,Kinetic Energy,NF,N,EF
+2529,Work by a constant force,NF,N,BP
+2529,Work and Kinetic Energy,BF,N,EP
+2529,Potential Energy,NP,NA,NA
+2529,When is Mechanical Energy Conserved,NF,N,NF
+2529,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2529,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2529,Problems with Two Types of Potential Energy,NF,N,NF
+2529,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2529,More mechanical energy problems,BF,N,NF
+2532,Kinetic Energy,Other_P,NA,NA
+2532,Work by a constant force,NF,N,BF
+2532,Work and Kinetic Energy,NF,N,NP
+2532,Potential Energy,Other_NA,NA,NA
+2532,When is Mechanical Energy Conserved,NP,NA,NA
+2532,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2532,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2532,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2532,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2532,More mechanical energy problems,Other_P,NA,NA
+2534,Kinetic Energy,NF,N,EF
+2534,Work by a constant force,NF,N,BP
+2534,Work and Kinetic Energy,NP,NA,NA
+2534,Potential Energy,NF,N,EP
+2534,When is Mechanical Energy Conserved,NF,N,NF
+2534,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2534,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2534,Problems with Two Types of Potential Energy,NF,N,NF
+2534,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2534,More mechanical energy problems,NF,N,NF
+2535,Kinetic Energy,NF,N,NP
+2535,Work by a constant force,NF,N,BP
+2535,Potential Energy,NF,N,NP
+2535,When is Mechanical Energy Conserved,NF,N,NF
+2535,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2535,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2535,Problems with Two Types of Potential Energy,NF,N,EP
+2535,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2535,More mechanical energy problems,NF,B,BP
+2553,Kinetic Energy,NF,N,NP
+2553,Work by a constant force,NF,N,BP
+2553,Work and Kinetic Energy,NF,N,NP
+2553,Potential Energy,NF,N,NF
+2553,When is Mechanical Energy Conserved,NF,N,NP
+2553,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2553,Problems Using Conservation of Mechanical Energy,BF,N,EF
+2553,Problems with Two Types of Potential Energy,NF,B,EP
+2553,Mechanical Energy and Non-Conservative Work,NF,B,NF
+2553,More mechanical energy problems,NF,B,NP
+2557,Kinetic Energy,NP,NA,NA
+2557,Work by a constant force,NF,B,EF
+2557,Work and Kinetic Energy,NF,N,EP
+2557,Potential Energy,NF,B,EP
+2557,When is Mechanical Energy Conserved,NP,NA,NA
+2557,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2557,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2557,Problems with Two Types of Potential Energy,NP,NA,NA
+2557,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2557,More mechanical energy problems,NF,B,BP
+2570,Kinetic Energy,NP,NA,NA
+2570,Work by a constant force,NP,NA,NA
+2570,Work and Kinetic Energy,NP,NA,NA
+2570,Potential Energy,NF,N,NF
+2570,When is Mechanical Energy Conserved,NF,N,NP
+2570,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2570,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2570,Problems with Two Types of Potential Energy,NF,N,EF
+2570,Mechanical Energy and Non-Conservative Work,BF,N,BF
+2570,More mechanical energy problems,BF,B,BF
+2586,Kinetic Energy,NP,NA,NA
+2586,Work by a constant force,BP,NA,NA
+2586,Work and Kinetic Energy,NP,NA,NA
+2586,Potential Energy,NF,N,NP
+2586,When is Mechanical Energy Conserved,NF,N,NP
+2586,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2586,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2586,Problems with Two Types of Potential Energy,BP,NA,NA
+2586,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2586,More mechanical energy problems,NF,B,NP
+2600,Kinetic Energy,NF,N,EP
+2600,Work by a constant force,BF,N,NF
+2600,Work and Kinetic Energy,BF,N,EP
+2600,Potential Energy,BF,N,EF
+2600,When is Mechanical Energy Conserved,BF,N,NP
+2600,Simple Application of Conservation of Mechanical Energy,BF,N,NP
+2600,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2600,Problems with Two Types of Potential Energy,NF,N,NA
+2600,Mechanical Energy and Non-Conservative Work,BF,N,EP
+2600,More mechanical energy problems,BF,N,EP
+2602,Kinetic Energy,NP,NA,NA
+2602,Work by a constant force,Other_F,NA,NA
+2602,Work and Kinetic Energy,NP,NA,NA
+2602,Potential Energy,Other_NA,NA,NA
+2602,When is Mechanical Energy Conserved,NF,B,EP
+2602,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2602,Problems with Two Types of Potential Energy,BP,NA,NA
+2602,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2602,More mechanical energy problems,Other_P,NA,NA
+2604,Kinetic Energy,NP,NA,NA
+2604,Work by a constant force,NF,N,BP
+2604,Work and Kinetic Energy,NF,N,NP
+2604,Potential Energy,NF,N,NF
+2604,When is Mechanical Energy Conserved,NF,N,NF
+2604,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2604,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2604,Problems with Two Types of Potential Energy,BP,NA,NA
+2604,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2604,More mechanical energy problems,Other_P,NA,NA
+2613,Kinetic Energy,NP,NA,NA
+2613,Work by a constant force,NF,N,NP
+2613,Work and Kinetic Energy,NF,N,EP
+2613,Potential Energy,NF,N,EP
+2613,When is Mechanical Energy Conserved,NF,N,NP
+2613,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2613,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2613,Problems with Two Types of Potential Energy,NF,N,EF
+2613,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2613,More mechanical energy problems,Other_P,NA,NA
+2616,Kinetic Energy,NP,NA,NA
+2616,Work by a constant force,BP,NA,NA
+2616,Work and Kinetic Energy,NP,NA,NA
+2616,Potential Energy,NF,N,BF
+2616,When is Mechanical Energy Conserved,NF,N,NF
+2616,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2616,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2616,Problems with Two Types of Potential Energy,NF,B,EP
+2616,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2616,More mechanical energy problems,NP,NA,NA
+2636,Kinetic Energy,NF,N,EP
+2636,Work by a constant force,NF,N,NF
+2636,Work and Kinetic Energy,NF,N,NF
+2636,Potential Energy,NF,N,BP
+2636,When is Mechanical Energy Conserved,NF,N,NF
+2636,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2636,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+2636,Problems with Two Types of Potential Energy,BF,B,BP
+2636,Mechanical Energy and Non-Conservative Work,BF,N,BF
+2636,More mechanical energy problems,NF,N,BF
+2637,Kinetic Energy,NF,B,EF
+2637,Work by a constant force,NF,N,BP
+2637,Potential Energy,NF,N,BF
+2637,When is Mechanical Energy Conserved,NF,N,NF
+2637,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2637,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2637,Problems with Two Types of Potential Energy,Other_F,NA,NA
+2637,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2637,More mechanical energy problems,NP,NA,NA
+2643,Kinetic Energy,NF,N,EF
+2643,Work by a constant force,NF,N,BP
+2643,Work and Kinetic Energy,BF,N,NP
+2643,Potential Energy,BF,N,NP
+2643,When is Mechanical Energy Conserved,BF,N,NP
+2643,Simple Application of Conservation of Mechanical Energy,BF,N,BP
+2643,Problems Using Conservation of Mechanical Energy,BF,N,EF
+2643,Problems with Two Types of Potential Energy,BP,NA,NA
+2643,Mechanical Energy and Non-Conservative Work,BF,B,NF
+2643,More mechanical energy problems,BF,B,NF
+2646,Work by a constant force,NF,B,BP
+2646,Work and Kinetic Energy,BP,NA,NA
+2646,Potential Energy,NF,B,NP
+2646,When is Mechanical Energy Conserved,NP,NA,NA
+2646,Simple Application of Conservation of Mechanical Energy,NF,B,BF
+2646,Problems Using Conservation of Mechanical Energy,NF,B,BF
+2646,Problems with Two Types of Potential Energy,BF,B,BP
+2646,Mechanical Energy and Non-Conservative Work,BF,B,BP
+2646,More mechanical energy problems,BF,B,BF
+2660,Kinetic Energy,NF,N,EP
+2660,Work by a constant force,NF,N,NP
+2660,Work and Kinetic Energy,NF,N,EP
+2660,Potential Energy,NF,N,NF
+2660,When is Mechanical Energy Conserved,NF,N,NF
+2660,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2660,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2660,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2660,More mechanical energy problems,Other_NA,NA,NA
+2664,Kinetic Energy,NF,N,EP
+2664,Work by a constant force,NF,N,BP
+2664,Work and Kinetic Energy,NF,N,EF
+2664,Potential Energy,NF,N,NP
+2664,When is Mechanical Energy Conserved,NF,N,NP
+2664,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+2664,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2664,Problems with Two Types of Potential Energy,NP,NA,NA
+2664,Mechanical Energy and Non-Conservative Work,NF,N,EF
+2664,More mechanical energy problems,NF,N,EP
+2674,Kinetic Energy,NF,N,NP
+2674,Work by a constant force,BF,N,NP
+2674,Potential Energy,NP,NA,NA
+2674,When is Mechanical Energy Conserved,NF,N,NP
+2674,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2674,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2674,Problems with Two Types of Potential Energy,BF,N,EF
+2674,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2674,More mechanical energy problems,NF,N,NF
+2687,Kinetic Energy,NF,N,EP
+2687,Work by a constant force,NF,N,BP
+2687,Work and Kinetic Energy,NP,NA,NA
+2687,Potential Energy,NF,N,BP
+2687,When is Mechanical Energy Conserved,NF,N,NP
+2687,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2687,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2687,Problems with Two Types of Potential Energy,NF,N,EP
+2687,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2687,More mechanical energy problems,NF,N,EP
+2694,Kinetic Energy,NP,NA,NA
+2694,Work by a constant force,NF,N,NP
+2694,Work and Kinetic Energy,NP,NA,NA
+2694,Potential Energy,NF,B,NF
+2694,When is Mechanical Energy Conserved,Other_F,NA,NA
+2694,Simple Application of Conservation of Mechanical Energy,Other_F,NA,NA
+2694,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2694,Problems with Two Types of Potential Energy,NF,B,NP
+2694,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2694,More mechanical energy problems,NP,NA,NA
+2703,Kinetic Energy,NF,B,EP
+2703,Work by a constant force,NF,N,BP
+2703,Work and Kinetic Energy,NP,NA,NA
+2703,Potential Energy,NF,B,NP
+2703,When is Mechanical Energy Conserved,NF,B,NP
+2703,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2703,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2703,Problems with Two Types of Potential Energy,NF,B,EP
+2703,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2703,More mechanical energy problems,NP,NA,NA
+2707,Kinetic Energy,NF,N,EP
+2707,Work by a constant force,NF,N,BP
+2707,Work and Kinetic Energy,NP,NA,NA
+2707,Potential Energy,NF,N,EF
+2707,When is Mechanical Energy Conserved,NF,N,NP
+2707,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2707,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2707,Problems with Two Types of Potential Energy,NF,N,EP
+2707,Mechanical Energy and Non-Conservative Work,NF,N,BF
+2707,More mechanical energy problems,NF,N,NF
+2708,Kinetic Energy,NP,NA,NA
+2708,Work by a constant force,NF,N,NP
+2708,Work and Kinetic Energy,NF,N,EP
+2708,Potential Energy,NF,N,NP
+2708,When is Mechanical Energy Conserved,NF,N,NP
+2708,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2708,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2708,Problems with Two Types of Potential Energy,NF,N,EP
+2708,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2708,More mechanical energy problems,NF,N,EP
+2718,Kinetic Energy,Other_F,NA,NA
+2718,Work by a constant force,Other_NA,NA,NA
+2718,Work and Kinetic Energy,NF,B,BP
+2718,Potential Energy,Other_NA,NA,NA
+2718,When is Mechanical Energy Conserved,NP,NA,NA
+2718,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2718,Problems Using Conservation of Mechanical Energy,NF,B,EF
+2718,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2718,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+2718,More mechanical energy problems,Other_P,NA,NA
+2719,Kinetic Energy,Other_F,NA,NA
+2719,Work by a constant force,NF,N,NP
+2719,Potential Energy,NF,N,NF
+2719,When is Mechanical Energy Conserved,Other_F,NA,NA
+2719,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+2719,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2719,Problems with Two Types of Potential Energy,NP,NA,NA
+2719,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2719,More mechanical energy problems,Other_NA,NA,NA
+2724,Kinetic Energy,NF,N,NP
+2724,Work by a constant force,NF,N,BP
+2724,Work and Kinetic Energy,BF,N,BP
+2724,Potential Energy,NF,N,NP
+2724,When is Mechanical Energy Conserved,NF,N,BF
+2724,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2724,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2724,Problems with Two Types of Potential Energy,NF,B,NP
+2724,Mechanical Energy and Non-Conservative Work,NF,B,NP
+2724,More mechanical energy problems,Other_F,NA,NA
+2741,Kinetic Energy,NF,B,EP
+2741,Work by a constant force,NF,N,BP
+2741,Work and Kinetic Energy,NP,NA,NA
+2741,Potential Energy,NF,N,NP
+2741,When is Mechanical Energy Conserved,NF,N,NP
+2741,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2741,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2741,Problems with Two Types of Potential Energy,NF,N,EF
+2741,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2741,More mechanical energy problems,NF,N,EP
+2748,Kinetic Energy,NF,N,NF
+2748,Work by a constant force,NF,N,NP
+2748,Work and Kinetic Energy,NP,NA,NA
+2748,Potential Energy,NF,N,NP
+2748,When is Mechanical Energy Conserved,NF,N,NF
+2748,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2748,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2748,Problems with Two Types of Potential Energy,BP,NA,NA
+2748,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2748,More mechanical energy problems,Other_P,NA,NA
+2754,Kinetic Energy,NF,N,EP
+2754,Work by a constant force,NF,N,BP
+2754,Work and Kinetic Energy,NF,N,EP
+2754,Potential Energy,NF,N,NF
+2754,When is Mechanical Energy Conserved,BF,N,BF
+2754,Simple Application of Conservation of Mechanical Energy,BF,N,BP
+2754,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2754,Problems with Two Types of Potential Energy,BP,NA,NA
+2754,Mechanical Energy and Non-Conservative Work,BF,N,BP
+2754,More mechanical energy problems,BF,N,NF
+2767,Kinetic Energy,NP,NA,NA
+2767,Work by a constant force,BP,NA,NA
+2767,Work and Kinetic Energy,NP,NA,NA
+2767,Potential Energy,NP,NA,NA
+2767,When is Mechanical Energy Conserved,NF,N,NP
+2767,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2767,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2767,Problems with Two Types of Potential Energy,NP,NA,NA
+2767,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2767,More mechanical energy problems,NF,B,EP
+2769,Kinetic Energy,Other_P,NA,NA
+2769,Work by a constant force,BP,NA,NA
+2769,Work and Kinetic Energy,NP,NA,NA
+2769,Potential Energy,NP,NA,NA
+2769,When is Mechanical Energy Conserved,Other_P,NA,NA
+2769,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2769,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+2769,Problems with Two Types of Potential Energy,NP,NA,NA
+2769,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+2769,More mechanical energy problems,Other_P,NA,NA
+2773,Work by a constant force,Other_F,NA,NA
+2773,Work and Kinetic Energy,NF,N,EP
+2773,Potential Energy,NF,N,NA
+2773,When is Mechanical Energy Conserved,NF,N,EP
+2773,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2773,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2773,Problems with Two Types of Potential Energy,BF,B,NP
+2773,Mechanical Energy and Non-Conservative Work,NF,N,NF
+2773,More mechanical energy problems,BF,B,BF
+2787,Kinetic Energy,NF,N,NF
+2787,Work by a constant force,Other_F,NA,NA
+2787,Work and Kinetic Energy,NP,NA,NA
+2787,Potential Energy,NF,N,NF
+2787,When is Mechanical Energy Conserved,NF,N,NP
+2787,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2787,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2787,Problems with Two Types of Potential Energy,NP,NA,NA
+2787,Mechanical Energy and Non-Conservative Work,NF,N,BP
+2787,More mechanical energy problems,NF,B,BF
+2788,Kinetic Energy,NF,N,EP
+2788,Work by a constant force,NF,N,NP
+2788,Work and Kinetic Energy,NP,NA,NA
+2788,Potential Energy,NF,N,NP
+2788,When is Mechanical Energy Conserved,NF,N,NF
+2788,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+2788,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2788,Problems with Two Types of Potential Energy,NP,NA,NA
+2788,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2788,More mechanical energy problems,NF,B,EP
+2789,Kinetic Energy,Other_F,NA,NA
+2789,Work by a constant force,NF,N,BP
+2789,Potential Energy,Other_F,NA,NA
+2789,When is Mechanical Energy Conserved,Other_F,NA,NA
+2789,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2789,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2789,Problems with Two Types of Potential Energy,NP,NA,NA
+2789,Mechanical Energy and Non-Conservative Work,NF,N,BP
+2789,More mechanical energy problems,Other_P,NA,NA
+2800,Kinetic Energy,NF,N,EP
+2800,Work by a constant force,NF,N,BP
+2800,Work and Kinetic Energy,NF,N,NP
+2800,Potential Energy,NP,NA,NA
+2800,When is Mechanical Energy Conserved,NF,N,NP
+2800,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2800,Problems Using Conservation of Mechanical Energy,NF,N,EP
+2800,Problems with Two Types of Potential Energy,NP,NA,NA
+2800,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2800,More mechanical energy problems,NF,N,EP
+2803,Kinetic Energy,NF,N,EP
+2803,Work by a constant force,NF,N,BP
+2803,Work and Kinetic Energy,Other_NA,NA,NA
+2803,Potential Energy,NP,NA,NA
+2803,When is Mechanical Energy Conserved,NF,N,NF
+2803,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2803,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2803,Problems with Two Types of Potential Energy,BF,N,EP
+2803,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2803,More mechanical energy problems,NF,N,BF
+2815,Kinetic Energy,NP,NA,NA
+2815,Work by a constant force,NP,NA,NA
+2815,Work and Kinetic Energy,NP,NA,NA
+2815,Potential Energy,NP,NA,NA
+2815,When is Mechanical Energy Conserved,Other_P,NA,NA
+2815,Simple Application of Conservation of Mechanical Energy,NF,B,EP
+2815,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2815,Problems with Two Types of Potential Energy,NP,NA,NA
+2815,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2815,More mechanical energy problems,NP,NA,NA
+2821,Kinetic Energy,NP,NA,NA
+2821,Work by a constant force,NF,N,BP
+2821,Work and Kinetic Energy,NF,N,EP
+2821,Potential Energy,NF,N,NP
+2821,When is Mechanical Energy Conserved,NF,N,NF
+2821,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2821,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2821,Problems with Two Types of Potential Energy,BF,N,BF
+2821,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2821,More mechanical energy problems,NF,N,EP
+2857,Kinetic Energy,NP,NA,NA
+2857,Work by a constant force,Other_NA,NA,NA
+2857,Work and Kinetic Energy,Other_NA,NA,NA
+2857,Potential Energy,NF,B,NF
+2857,When is Mechanical Energy Conserved,Other_P,NA,NA
+2857,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+2857,Problems Using Conservation of Mechanical Energy,BF,B,NF
+2857,Problems with Two Types of Potential Energy,BF,B,BF
+2857,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2857,More mechanical energy problems,BF,B,BF
+2866,Kinetic Energy,NF,N,EF
+2866,Work by a constant force,NF,N,BF
+2866,Work and Kinetic Energy,BP,NA,NA
+2866,Potential Energy,BF,N,NF
+2866,When is Mechanical Energy Conserved,BF,N,NF
+2866,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+2866,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2866,Problems with Two Types of Potential Energy,BF,N,EP
+2866,Mechanical Energy and Non-Conservative Work,BF,N,EP
+2883,Kinetic Energy,Other_F,NA,NA
+2883,Work by a constant force,BP,NA,NA
+2883,Work and Kinetic Energy,BP,NA,NA
+2883,Potential Energy,Other_F,NA,NA
+2883,When is Mechanical Energy Conserved,BP,NA,NA
+2883,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2883,Problems Using Conservation of Mechanical Energy,NF,B,BF
+2883,Problems with Two Types of Potential Energy,BP,NA,NA
+2883,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+2883,More mechanical energy problems,Other_F,NA,NA
+2886,Kinetic Energy,NF,N,NP
+2886,Work by a constant force,NF,B,NF
+2886,Work and Kinetic Energy,NF,N,NP
+2886,Potential Energy,NP,NA,NA
+2886,When is Mechanical Energy Conserved,NF,N,NP
+2886,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2886,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+2886,Problems with Two Types of Potential Energy,BP,NA,NA
+2886,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+2886,More mechanical energy problems,NP,NA,NA
+2896,Kinetic Energy,NF,N,EP
+2896,Work by a constant force,NF,N,BP
+2896,Work and Kinetic Energy,BP,NA,NA
+2896,Potential Energy,NF,N,BF
+2896,When is Mechanical Energy Conserved,NF,N,NF
+2896,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2896,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+2896,Problems with Two Types of Potential Energy,NP,NA,NA
+2896,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2896,More mechanical energy problems,Other_P,NA,NA
+2901,Kinetic Energy,NP,NA,NA
+2901,Work by a constant force,NF,N,BP
+2901,Work and Kinetic Energy,NP,NA,NA
+2901,Potential Energy,NP,NA,NA
+2901,When is Mechanical Energy Conserved,NP,NA,NA
+2901,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2901,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2901,Problems with Two Types of Potential Energy,NF,B,EP
+2901,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2901,More mechanical energy problems,NF,N,EP
+2912,Kinetic Energy,NF,N,EF
+2912,Work by a constant force,NF,N,NP
+2912,Work and Kinetic Energy,BP,NA,NA
+2912,Potential Energy,Other_NA,NA,NA
+2912,When is Mechanical Energy Conserved,NF,N,EF
+2912,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2912,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2912,Problems with Two Types of Potential Energy,BP,NA,NA
+2912,Mechanical Energy and Non-Conservative Work,BF,N,NF
+2912,More mechanical energy problems,Other_P,NA,NA
+2918,Kinetic Energy,NP,NA,NA
+2918,Work by a constant force,NP,NA,NA
+2918,Work and Kinetic Energy,NP,NA,NA
+2918,Potential Energy,NP,NA,NA
+2918,When is Mechanical Energy Conserved,Other_P,NA,NA
+2918,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2918,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2918,Problems with Two Types of Potential Energy,NP,NA,NA
+2918,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+2918,More mechanical energy problems,Other_P,NA,NA
+2941,Kinetic Energy,NF,N,EP
+2941,Work by a constant force,NF,N,EP
+2941,Work and Kinetic Energy,NP,NA,NA
+2941,Potential Energy,NF,N,NF
+2941,When is Mechanical Energy Conserved,NF,N,EF
+2941,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2941,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2941,Problems with Two Types of Potential Energy,NF,N,EF
+2941,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2941,More mechanical energy problems,NF,N,BF
+2948,Kinetic Energy,NF,N,NP
+2948,Work by a constant force,NF,N,BP
+2948,Work and Kinetic Energy,NP,NA,NA
+2948,Potential Energy,Other_NA,NA,NA
+2948,When is Mechanical Energy Conserved,NF,N,NF
+2948,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+2948,Problems Using Conservation of Mechanical Energy,NF,N,NF
+2948,Problems with Two Types of Potential Energy,NP,NA,NA
+2948,Mechanical Energy and Non-Conservative Work,BF,N,NF
+2948,More mechanical energy problems,Other_P,NA,NA
+2952,Kinetic Energy,NP,NA,NA
+2952,Work by a constant force,Other_P,NA,NA
+2952,Work and Kinetic Energy,NP,NA,NA
+2952,Potential Energy,NP,NA,NA
+2952,When is Mechanical Energy Conserved,Other_P,NA,NA
+2952,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+2952,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+2952,Problems with Two Types of Potential Energy,Other_P,NA,NA
+2952,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+2952,More mechanical energy problems,Other_F,NA,NA
+2956,Kinetic Energy,NF,B,EF
+2956,Work by a constant force,NF,N,BP
+2956,Work and Kinetic Energy,NP,NA,NA
+2956,Potential Energy,BF,N,NF
+2956,When is Mechanical Energy Conserved,NF,N,NF
+2956,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+2956,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+2956,Problems with Two Types of Potential Energy,BP,NA,NA
+2956,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+2956,More mechanical energy problems,Other_P,NA,NA
+2960,Kinetic Energy,NF,N,NA
+2960,Work by a constant force,NP,NA,NA
+2960,Work and Kinetic Energy,NP,NA,NA
+2960,Potential Energy,Other_F,NA,NA
+2960,When is Mechanical Energy Conserved,NF,N,NF
+2960,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2960,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+2960,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+2960,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+2960,More mechanical energy problems,BP,NA,NA
+2969,Kinetic Energy,NF,N,NP
+2969,Work by a constant force,NF,N,BP
+2969,Work and Kinetic Energy,BP,NA,NA
+2969,Potential Energy,NF,N,NP
+2969,When is Mechanical Energy Conserved,NF,N,NP
+2969,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2969,Problems Using Conservation of Mechanical Energy,NF,N,NA
+2969,Problems with Two Types of Potential Energy,BF,N,EF
+2969,Mechanical Energy and Non-Conservative Work,NF,N,NP
+2969,More mechanical energy problems,NF,N,NF
+2989,Kinetic Energy,NP,NA,NA
+2989,Work by a constant force,Other_P,NA,NA
+2989,Work and Kinetic Energy,NF,B,NP
+2989,Potential Energy,NF,N,NP
+2989,When is Mechanical Energy Conserved,Other_F,NA,NA
+2989,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+2989,Problems Using Conservation of Mechanical Energy,NF,B,EF
+2989,Problems with Two Types of Potential Energy,NF,B,EF
+2989,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2989,More mechanical energy problems,Other_NA,NA,NA
+2994,Kinetic Energy,NP,NA,NA
+2994,Work by a constant force,NF,N,BP
+2994,Work and Kinetic Energy,NF,N,NP
+2994,Potential Energy,NF,N,NP
+2994,When is Mechanical Energy Conserved,NF,N,NP
+2994,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+2994,Problems Using Conservation of Mechanical Energy,NF,N,EF
+2994,Problems with Two Types of Potential Energy,NF,N,EP
+2994,Mechanical Energy and Non-Conservative Work,NF,N,EP
+2994,More mechanical energy problems,NF,N,BP
+3000,Kinetic Energy,NF,N,EP
+3000,Work by a constant force,NF,N,BP
+3000,Work and Kinetic Energy,NP,NA,NA
+3000,Potential Energy,NF,N,NP
+3000,When is Mechanical Energy Conserved,NF,N,NP
+3000,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+3000,Problems Using Conservation of Mechanical Energy,NF,N,EP
+3000,Problems with Two Types of Potential Energy,NF,N,EP
+3000,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3000,More mechanical energy problems,NF,N,EP
+3007,Kinetic Energy,Other_NA,NA,NA
+3007,Work by a constant force,NP,NA,NA
+3007,Work and Kinetic Energy,NP,NA,NA
+3007,Potential Energy,NP,NA,NA
+3007,When is Mechanical Energy Conserved,Other_NA,NA,NA
+3007,Simple Application of Conservation of Mechanical Energy,NF,N,NF
+3007,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3007,Problems with Two Types of Potential Energy,NP,NA,NA
+3007,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3007,More mechanical energy problems,Other_P,NA,NA
+3026,Kinetic Energy,NF,N,EP
+3026,Work by a constant force,NF,N,NP
+3026,Work and Kinetic Energy,BF,N,NA
+3026,Potential Energy,NF,N,NA
+3026,When is Mechanical Energy Conserved,NP,NA,NA
+3026,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3026,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3026,Problems with Two Types of Potential Energy,BP,NA,NA
+3026,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3026,More mechanical energy problems,BF,B,NP
+3029,Kinetic Energy,NF,N,EP
+3029,Work by a constant force,NF,N,NF
+3029,Work and Kinetic Energy,BF,N,EF
+3029,Potential Energy,NP,NA,NA
+3029,When is Mechanical Energy Conserved,BP,NA,NA
+3029,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3029,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3029,Problems with Two Types of Potential Energy,BP,NA,NA
+3029,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3029,More mechanical energy problems,NP,NA,NA
+3030,Kinetic Energy,NP,NA,NA
+3030,Work by a constant force,Other_P,NA,NA
+3030,Work and Kinetic Energy,NP,NA,NA
+3030,Potential Energy,NP,NA,NA
+3030,When is Mechanical Energy Conserved,Other_F,NA,NA
+3030,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3030,Problems Using Conservation of Mechanical Energy,NF,B,EP
+3030,Problems with Two Types of Potential Energy,NP,NA,NA
+3030,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3030,More mechanical energy problems,NF,B,EP
+3032,Kinetic Energy,NP,NA,NA
+3032,Work by a constant force,Other_P,NA,NA
+3032,Work and Kinetic Energy,NP,NA,NA
+3032,Potential Energy,NP,NA,NA
+3032,When is Mechanical Energy Conserved,Other_P,NA,NA
+3032,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3032,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3032,Problems with Two Types of Potential Energy,NP,NA,NA
+3032,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3032,More mechanical energy problems,Other_P,NA,NA
+3048,Kinetic Energy,NP,NA,NA
+3048,Work by a constant force,NP,NA,NA
+3048,Work and Kinetic Energy,NF,N,EP
+3048,Potential Energy,NF,N,NP
+3048,When is Mechanical Energy Conserved,NF,N,NF
+3048,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3048,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3048,Problems with Two Types of Potential Energy,NP,NA,NA
+3048,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3048,More mechanical energy problems,NP,NA,NA
+3058,Kinetic Energy,Other_F,NA,NA
+3058,Work by a constant force,Other_F,NA,NA
+3058,Work and Kinetic Energy,NP,NA,NA
+3058,Potential Energy,NP,NA,NA
+3058,When is Mechanical Energy Conserved,NF,B,NF
+3058,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3058,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+3058,Problems with Two Types of Potential Energy,NF,B,BP
+3058,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3058,More mechanical energy problems,Other_P,NA,NA
+3068,Kinetic Energy,Other_P,NA,NA
+3068,Work by a constant force,NP,NA,NA
+3068,Work and Kinetic Energy,NP,NA,NA
+3068,Potential Energy,Other_F,NA,NA
+3068,When is Mechanical Energy Conserved,Other_F,NA,NA
+3068,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3068,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+3068,Problems with Two Types of Potential Energy,Other_F,NA,NA
+3068,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3068,More mechanical energy problems,BP,NA,NA
+3070,Kinetic Energy,Other_F,NA,NA
+3070,Work by a constant force,NF,N,BP
+3070,Work and Kinetic Energy,NP,NA,NA
+3070,Potential Energy,NF,N,NP
+3070,When is Mechanical Energy Conserved,NF,N,NP
+3070,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3070,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3070,Problems with Two Types of Potential Energy,NP,NA,NA
+3070,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+3070,More mechanical energy problems,Other_P,NA,NA
+3072,Kinetic Energy,NF,B,NA
+3072,Work by a constant force,NF,B,NF
+3072,Work and Kinetic Energy,NF,B,NP
+3072,Potential Energy,BF,B,NF
+3072,When is Mechanical Energy Conserved,NF,B,NF
+3072,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+3072,Problems Using Conservation of Mechanical Energy,NF,B,NF
+3072,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3072,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3072,More mechanical energy problems,Other_F,NA,NA
+3088,Kinetic Energy,NF,N,NP
+3088,Work by a constant force,NF,N,BP
+3088,Work and Kinetic Energy,NF,N,BF
+3088,Potential Energy,NF,N,NF
+3088,When is Mechanical Energy Conserved,BF,N,NP
+3088,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+3088,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3088,Problems with Two Types of Potential Energy,NF,N,EP
+3088,Mechanical Energy and Non-Conservative Work,BF,N,BF
+3088,More mechanical energy problems,BF,N,EP
+3118,Work and Kinetic Energy,NP,NA,NA
+3118,Potential Energy,NF,N,NA
+3118,When is Mechanical Energy Conserved,Other_NA,NA,NA
+3118,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3118,Problems Using Conservation of Mechanical Energy,NF,B,NA
+3118,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+3118,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+3118,More mechanical energy problems,Other_NA,NA,NA
+3126,Kinetic Energy,NF,N,NP
+3126,Work by a constant force,NF,N,BF
+3126,Work and Kinetic Energy,BP,NA,NA
+3126,Potential Energy,NF,B,BF
+3126,When is Mechanical Energy Conserved,NF,N,NP
+3126,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3126,Problems Using Conservation of Mechanical Energy,NF,B,NF
+3126,Problems with Two Types of Potential Energy,BP,NA,NA
+3126,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3126,More mechanical energy problems,Other_NA,NA,NA
+3133,Kinetic Energy,NP,NA,NA
+3133,Work by a constant force,NF,N,BP
+3133,Work and Kinetic Energy,NP,NA,NA
+3133,Potential Energy,NP,NA,NA
+3133,When is Mechanical Energy Conserved,NF,N,EP
+3133,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3133,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3133,Problems with Two Types of Potential Energy,NP,NA,NA
+3133,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3133,More mechanical energy problems,NP,NA,NA
+3166,Kinetic Energy,NP,NA,NA
+3166,Work by a constant force,NF,N,BP
+3166,Work and Kinetic Energy,NP,NA,NA
+3166,Potential Energy,NF,N,NP
+3166,When is Mechanical Energy Conserved,NF,N,NF
+3166,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3166,Problems Using Conservation of Mechanical Energy,NF,N,BF
+3166,Problems with Two Types of Potential Energy,NF,B,EF
+3166,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3166,More mechanical energy problems,BP,NA,NA
+3185,Kinetic Energy,Other_F,NA,NA
+3185,Work by a constant force,NF,N,NP
+3185,Work and Kinetic Energy,BP,NA,NA
+3185,Potential Energy,NF,N,EF
+3185,When is Mechanical Energy Conserved,BF,N,NF
+3185,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3185,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3185,Problems with Two Types of Potential Energy,BP,NA,NA
+3185,Mechanical Energy and Non-Conservative Work,BF,N,EF
+3185,More mechanical energy problems,Other_P,NA,NA
+3187,Kinetic Energy,NF,N,EP
+3187,Work by a constant force,NF,N,BP
+3187,Work and Kinetic Energy,BF,N,EF
+3187,Potential Energy,BF,N,NP
+3187,When is Mechanical Energy Conserved,BF,N,EP
+3187,Simple Application of Conservation of Mechanical Energy,BF,N,NP
+3187,Problems Using Conservation of Mechanical Energy,BF,N,EP
+3187,Problems with Two Types of Potential Energy,NF,N,EF
+3187,Mechanical Energy and Non-Conservative Work,BF,N,EP
+3187,More mechanical energy problems,BF,N,EF
+3189,Kinetic Energy,NF,N,NA
+3189,Work by a constant force,NF,N,BF
+3189,Work and Kinetic Energy,NP,NA,NA
+3189,Potential Energy,NF,N,NP
+3189,When is Mechanical Energy Conserved,NF,B,NF
+3189,Simple Application of Conservation of Mechanical Energy,NF,B,NF
+3189,Problems Using Conservation of Mechanical Energy,NF,B,NA
+3189,Problems with Two Types of Potential Energy,Other_F,NA,NA
+3189,Mechanical Energy and Non-Conservative Work,BF,N,NP
+3189,More mechanical energy problems,NP,NA,NA
+3192,Kinetic Energy,Other_F,NA,NA
+3192,Work by a constant force,Other_P,NA,NA
+3192,Work and Kinetic Energy,NP,NA,NA
+3192,Potential Energy,NP,NA,NA
+3192,When is Mechanical Energy Conserved,Other_F,NA,NA
+3192,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3192,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3192,Problems with Two Types of Potential Energy,BP,NA,NA
+3192,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3192,More mechanical energy problems,NP,NA,NA
+3198,Kinetic Energy,NF,B,NA
+3198,Work by a constant force,Other_NA,NA,NA
+3198,Work and Kinetic Energy,NP,NA,NA
+3198,When is Mechanical Energy Conserved,NF,N,NF
+3198,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3198,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3198,Problems with Two Types of Potential Energy,NF,N,BF
+3198,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3198,More mechanical energy problems,BP,NA,NA
+3204,Kinetic Energy,NF,N,EP
+3204,Work by a constant force,NF,N,BP
+3204,Work and Kinetic Energy,NF,N,EP
+3204,Potential Energy,NF,N,NF
+3204,When is Mechanical Energy Conserved,NF,N,NF
+3204,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+3204,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3204,Problems with Two Types of Potential Energy,BF,N,BP
+3204,Mechanical Energy and Non-Conservative Work,BF,N,NF
+3204,More mechanical energy problems,BF,B,BF
+3217,Kinetic Energy,NF,N,NP
+3217,Work by a constant force,NF,N,BP
+3217,Work and Kinetic Energy,BP,NA,NA
+3217,Potential Energy,NP,NA,NA
+3217,When is Mechanical Energy Conserved,Other_P,NA,NA
+3217,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3217,More mechanical energy problems,Other_P,NA,NA
+3219,Kinetic Energy,NP,NA,NA
+3219,Work by a constant force,NF,N,BP
+3219,Work and Kinetic Energy,NP,NA,NA
+3219,Potential Energy,NF,N,NF
+3219,When is Mechanical Energy Conserved,NF,N,NP
+3219,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3219,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3219,Problems with Two Types of Potential Energy,NP,NA,NA
+3219,Mechanical Energy and Non-Conservative Work,NF,N,BP
+3219,More mechanical energy problems,Other_F,NA,NA
+3229,Kinetic Energy,NF,N,EF
+3229,Work by a constant force,NF,N,EF
+3229,Work and Kinetic Energy,NF,N,EP
+3229,Potential Energy,NF,N,NP
+3229,When is Mechanical Energy Conserved,NF,N,NP
+3229,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3229,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3229,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3229,More mechanical energy problems,NP,NA,NA
+3254,Kinetic Energy,NP,NA,NA
+3254,Work by a constant force,NF,N,BP
+3254,Work and Kinetic Energy,NP,NA,NA
+3254,Potential Energy,Other_F,NA,NA
+3254,When is Mechanical Energy Conserved,NF,B,NP
+3254,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3254,Problems Using Conservation of Mechanical Energy,NF,B,NF
+3254,Problems with Two Types of Potential Energy,NP,NA,NA
+3254,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3254,More mechanical energy problems,NF,B,NP
+3256,Kinetic Energy,NF,N,NP
+3256,Work by a constant force,NF,N,NF
+3256,Work and Kinetic Energy,NF,N,NP
+3256,Potential Energy,NF,N,NF
+3256,When is Mechanical Energy Conserved,NF,N,EP
+3256,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3256,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+3256,Problems with Two Types of Potential Energy,NP,NA,NA
+3256,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+3256,More mechanical energy problems,Other_P,NA,NA
+3262,Kinetic Energy,NF,N,EP
+3262,Work by a constant force,NF,N,BP
+3262,Work and Kinetic Energy,NF,N,EP
+3262,Potential Energy,NF,N,NP
+3262,When is Mechanical Energy Conserved,NF,N,NP
+3262,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3272,Kinetic Energy,Other_F,NA,NA
+3272,Work by a constant force,NP,NA,NA
+3272,Work and Kinetic Energy,NP,NA,NA
+3272,Potential Energy,NF,N,EF
+3272,When is Mechanical Energy Conserved,NF,B,NP
+3272,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+3272,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3272,Problems with Two Types of Potential Energy,NP,NA,NA
+3272,Mechanical Energy and Non-Conservative Work,BF,N,NP
+3272,More mechanical energy problems,Other_P,NA,NA
+3285,Kinetic Energy,NF,N,BF
+3285,Work by a constant force,Other_NA,NA,NA
+3285,Work and Kinetic Energy,NF,N,EF
+3285,Potential Energy,NF,B,NA
+3285,When is Mechanical Energy Conserved,Other_F,NA,NA
+3285,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+3285,Problems Using Conservation of Mechanical Energy,BF,B,BF
+3285,Problems with Two Types of Potential Energy,NF,B,BP
+3285,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3285,More mechanical energy problems,BP,NA,NA
+3289,Kinetic Energy,Other_F,NA,NA
+3289,Work by a constant force,NF,B,BF
+3289,Work and Kinetic Energy,BP,NA,NA
+3289,Potential Energy,Other_NA,NA,NA
+3289,When is Mechanical Energy Conserved,Other_NA,NA,NA
+3289,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3289,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3289,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3289,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3289,More mechanical energy problems,BF,B,BF
+3294,Kinetic Energy,NF,B,NF
+3294,Work by a constant force,NF,B,BP
+3294,Work and Kinetic Energy,BF,B,NP
+3294,Potential Energy,NF,B,BF
+3294,When is Mechanical Energy Conserved,NF,B,BF
+3294,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3294,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+3294,Problems with Two Types of Potential Energy,Other_F,NA,NA
+3294,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3294,More mechanical energy problems,BF,B,BF
+3298,Kinetic Energy,NF,N,EP
+3298,Work by a constant force,NF,N,BP
+3298,Work and Kinetic Energy,NP,NA,NA
+3298,Potential Energy,NP,NA,NA
+3298,When is Mechanical Energy Conserved,NF,N,NF
+3298,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3298,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3298,Problems with Two Types of Potential Energy,NF,B,EP
+3298,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3298,More mechanical energy problems,Other_P,NA,NA
+3303,Kinetic Energy,NF,N,EP
+3303,Work by a constant force,NF,N,NP
+3303,Work and Kinetic Energy,NP,NA,NA
+3303,Potential Energy,NF,N,NP
+3303,When is Mechanical Energy Conserved,NF,N,NP
+3303,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3303,Problems Using Conservation of Mechanical Energy,NF,N,EP
+3303,Problems with Two Types of Potential Energy,NP,NA,NA
+3303,Mechanical Energy and Non-Conservative Work,NF,N,EP
+3303,More mechanical energy problems,NF,N,NP
+3310,Kinetic Energy,NF,N,EP
+3310,Work by a constant force,NF,N,BF
+3310,Work and Kinetic Energy,NF,B,BF
+3310,Potential Energy,NF,B,NF
+3310,When is Mechanical Energy Conserved,NF,N,BF
+3310,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+3310,Problems Using Conservation of Mechanical Energy,NF,B,NF
+3310,Problems with Two Types of Potential Energy,BF,B,BF
+3310,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3310,More mechanical energy problems,BF,B,BF
+3326,Kinetic Energy,NP,NA,NA
+3326,Work by a constant force,Other_P,NA,NA
+3326,Work and Kinetic Energy,NP,NA,NA
+3326,Potential Energy,NP,NA,NA
+3326,When is Mechanical Energy Conserved,NP,NA,NA
+3326,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3326,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3326,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3326,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3326,More mechanical energy problems,NP,NA,NA
+3366,Kinetic Energy,NF,B,NF
+3366,Work by a constant force,NF,N,BP
+3366,Work and Kinetic Energy,NP,NA,NA
+3366,Potential Energy,NF,N,NP
+3366,When is Mechanical Energy Conserved,NF,N,EP
+3366,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3366,Problems Using Conservation of Mechanical Energy,NF,N,NF
+3366,Problems with Two Types of Potential Energy,NP,NA,NA
+3366,Mechanical Energy and Non-Conservative Work,NF,N,BP
+3366,More mechanical energy problems,Other_P,NA,NA
+3385,Kinetic Energy,NF,N,EP
+3385,Work by a constant force,NF,B,NP
+3385,Work and Kinetic Energy,NP,NA,NA
+3385,Potential Energy,NP,NA,NA
+3385,When is Mechanical Energy Conserved,NF,N,NP
+3385,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3385,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3385,Problems with Two Types of Potential Energy,NP,NA,NA
+3385,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3385,More mechanical energy problems,BF,N,BP
+3395,Work by a constant force,Other_NA,NA,NA
+3395,Work and Kinetic Energy,NP,NA,NA
+3395,Potential Energy,Other_NA,NA,NA
+3395,When is Mechanical Energy Conserved,Other_P,NA,NA
+3395,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3395,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3395,Problems with Two Types of Potential Energy,NP,NA,NA
+3395,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3395,More mechanical energy problems,NP,NA,NA
+3399,Kinetic Energy,NP,NA,NA
+3399,Work by a constant force,NF,N,BP
+3399,Work and Kinetic Energy,NF,N,EP
+3399,Potential Energy,NF,N,NP
+3399,When is Mechanical Energy Conserved,Other_F,NA,NA
+3399,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3399,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3399,Problems with Two Types of Potential Energy,NF,N,EP
+3407,Kinetic Energy,NP,NA,NA
+3407,Work by a constant force,Other_F,NA,NA
+3407,Work and Kinetic Energy,NP,NA,NA
+3407,Potential Energy,NP,NA,NA
+3407,When is Mechanical Energy Conserved,NF,N,NP
+3407,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3407,Problems Using Conservation of Mechanical Energy,NF,N,EP
+3407,Problems with Two Types of Potential Energy,NP,NA,NA
+3407,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3407,More mechanical energy problems,NP,NA,NA
+3421,Kinetic Energy,NP,NA,NA
+3421,Work by a constant force,NP,NA,NA
+3421,Work and Kinetic Energy,NP,NA,NA
+3421,Potential Energy,NP,NA,NA
+3421,When is Mechanical Energy Conserved,NF,B,NP
+3421,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3421,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3421,Problems with Two Types of Potential Energy,NP,NA,NA
+3421,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3421,More mechanical energy problems,Other_P,NA,NA
+3426,Kinetic Energy,NF,N,EP
+3426,Work by a constant force,BF,N,NP
+3426,Potential Energy,NP,NA,NA
+3426,When is Mechanical Energy Conserved,NP,NA,NA
+3426,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3426,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3426,Problems with Two Types of Potential Energy,NP,NA,NA
+3426,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3426,More mechanical energy problems,NF,B,BF
+3428,Kinetic Energy,NF,B,NP
+3428,Work by a constant force,Other_F,NA,NA
+3428,Work and Kinetic Energy,NP,NA,NA
+3428,Potential Energy,NF,B,NP
+3428,When is Mechanical Energy Conserved,NF,B,NF
+3428,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3428,Problems Using Conservation of Mechanical Energy,NF,N,NF
+3428,Problems with Two Types of Potential Energy,Other_F,NA,NA
+3428,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3428,More mechanical energy problems,Other_NA,NA,NA
+3448,Kinetic Energy,NF,N,NP
+3448,Work by a constant force,NF,N,BP
+3448,Work and Kinetic Energy,NF,N,NF
+3448,Potential Energy,NF,N,NF
+3448,When is Mechanical Energy Conserved,NP,NA,NA
+3448,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3448,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3448,Problems with Two Types of Potential Energy,NF,N,EP
+3448,Mechanical Energy and Non-Conservative Work,NF,N,EP
+3448,More mechanical energy problems,NF,N,EP
+3461,Kinetic Energy,NP,NA,NA
+3461,Work by a constant force,NP,NA,NA
+3461,Work and Kinetic Energy,NF,B,EP
+3461,Potential Energy,NF,N,EP
+3461,When is Mechanical Energy Conserved,NP,NA,NA
+3461,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3461,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3461,Problems with Two Types of Potential Energy,NP,NA,NA
+3461,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3461,More mechanical energy problems,NP,NA,NA
+3476,Kinetic Energy,NP,NA,NA
+3476,Work by a constant force,Other_P,NA,NA
+3476,Work and Kinetic Energy,NP,NA,NA
+3476,Potential Energy,Other_F,NA,NA
+3476,When is Mechanical Energy Conserved,NF,N,NP
+3476,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3476,Problems Using Conservation of Mechanical Energy,NF,B,EF
+3476,Problems with Two Types of Potential Energy,NP,NA,NA
+3476,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3476,More mechanical energy problems,NP,NA,NA
+3514,Kinetic Energy,NP,NA,NA
+3514,Work by a constant force,BP,NA,NA
+3514,Work and Kinetic Energy,BP,NA,NA
+3514,Potential Energy,NP,NA,NA
+3514,When is Mechanical Energy Conserved,NF,B,NP
+3514,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3514,Problems Using Conservation of Mechanical Energy,NF,B,NA
+3514,Problems with Two Types of Potential Energy,NP,NA,NA
+3514,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+3514,More mechanical energy problems,Other_NA,NA,NA
+3546,Kinetic Energy,NP,NA,NA
+3546,Work by a constant force,BP,NA,NA
+3546,Work and Kinetic Energy,NP,NA,NA
+3546,Potential Energy,NP,NA,NA
+3546,When is Mechanical Energy Conserved,Other_F,NA,NA
+3546,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3546,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3546,Problems with Two Types of Potential Energy,NP,NA,NA
+3546,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3546,More mechanical energy problems,NP,NA,NA
+3645,Kinetic Energy,NF,N,EP
+3645,Work by a constant force,Other_F,NA,NA
+3645,Work and Kinetic Energy,NP,NA,NA
+3645,Potential Energy,Other_P,NA,NA
+3645,When is Mechanical Energy Conserved,NF,N,NA
+3692,Kinetic Energy,NF,N,NF
+3692,Work by a constant force,NF,N,BP
+3692,Work and Kinetic Energy,NF,N,NF
+3692,Potential Energy,Other_F,NA,NA
+3692,When is Mechanical Energy Conserved,NF,N,NP
+3692,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3692,Problems Using Conservation of Mechanical Energy,NF,N,BF
+3692,Problems with Two Types of Potential Energy,BF,N,NF
+3692,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3692,More mechanical energy problems,BF,N,NP
+3708,Kinetic Energy,NF,N,EP
+3708,Work by a constant force,NF,N,NP
+3708,Work and Kinetic Energy,NP,NA,NA
+3708,Potential Energy,NF,N,NP
+3708,When is Mechanical Energy Conserved,NF,N,NP
+3708,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3708,Problems Using Conservation of Mechanical Energy,NF,N,EP
+3708,Problems with Two Types of Potential Energy,NF,N,EP
+3708,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3708,More mechanical energy problems,NF,N,EP
+3715,Kinetic Energy,Other_NA,NA,NA
+3715,Work by a constant force,Other_F,NA,NA
+3715,Work and Kinetic Energy,NP,NA,NA
+3715,Potential Energy,NF,B,NF
+3715,When is Mechanical Energy Conserved,Other_F,NA,NA
+3715,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3715,Problems Using Conservation of Mechanical Energy,Other_P,NA,NA
+3715,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3715,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+3715,More mechanical energy problems,Other_NA,NA,NA
+3724,Kinetic Energy,NF,N,NP
+3724,Work by a constant force,BF,N,BF
+3724,Work and Kinetic Energy,BF,N,BF
+3724,Potential Energy,Other_NA,NA,NA
+3724,When is Mechanical Energy Conserved,NF,N,EP
+3724,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3724,Problems Using Conservation of Mechanical Energy,BF,N,NF
+3724,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3724,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+3724,More mechanical energy problems,BP,NA,NA
+3757,Kinetic Energy,NF,B,EP
+3757,Work by a constant force,NF,N,NP
+3757,Work and Kinetic Energy,NP,NA,NA
+3757,Potential Energy,NF,N,NP
+3757,When is Mechanical Energy Conserved,NF,N,NP
+3757,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3757,Problems Using Conservation of Mechanical Energy,NF,N,EP
+3757,Problems with Two Types of Potential Energy,NP,NA,NA
+3757,Mechanical Energy and Non-Conservative Work,NF,N,NF
+3757,More mechanical energy problems,NF,N,EP
+3799,Kinetic Energy,NP,NA,NA
+3799,Work by a constant force,Other_P,NA,NA
+3799,Work and Kinetic Energy,NP,NA,NA
+3799,Potential Energy,Other_NA,NA,NA
+3799,When is Mechanical Energy Conserved,Other_F,NA,NA
+3799,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3799,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3799,Problems with Two Types of Potential Energy,NF,B,NP
+3799,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3799,More mechanical energy problems,Other_P,NA,NA
+3800,Kinetic Energy,NP,NA,NA
+3800,Work by a constant force,NP,NA,NA
+3800,Work and Kinetic Energy,NP,NA,NA
+3800,Potential Energy,NP,NA,NA
+3800,When is Mechanical Energy Conserved,NF,N,NP
+3800,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3800,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3800,Problems with Two Types of Potential Energy,NF,N,EP
+3800,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3800,More mechanical energy problems,NF,N,EP
+3817,Kinetic Energy,NP,NA,NA
+3817,Work by a constant force,BF,B,BP
+3817,Work and Kinetic Energy,NF,N,NP
+3817,Potential Energy,NP,NA,NA
+3817,When is Mechanical Energy Conserved,NF,N,NF
+3817,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3817,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3817,Problems with Two Types of Potential Energy,NP,NA,NA
+3817,Mechanical Energy and Non-Conservative Work,NF,N,EP
+3817,More mechanical energy problems,NP,NA,NA
+3840,Kinetic Energy,NF,N,NP
+3840,Work by a constant force,NF,N,BP
+3840,Potential Energy,Other_F,NA,NA
+3840,When is Mechanical Energy Conserved,NF,N,NF
+3840,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3840,Problems Using Conservation of Mechanical Energy,NF,B,NF
+3840,Problems with Two Types of Potential Energy,NP,NA,NA
+3840,Mechanical Energy and Non-Conservative Work,NF,B,BF
+3840,More mechanical energy problems,BF,B,BP
+3848,Kinetic Energy,NF,N,EP
+3848,Work by a constant force,NF,N,NP
+3848,Work and Kinetic Energy,NF,N,BP
+3848,Potential Energy,NP,NA,NA
+3848,When is Mechanical Energy Conserved,NF,B,NP
+3848,Simple Application of Conservation of Mechanical Energy,NF,B,NP
+3848,Problems Using Conservation of Mechanical Energy,NF,B,EF
+3848,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3848,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3848,More mechanical energy problems,BF,B,BP
+3866,Kinetic Energy,NP,NA,NA
+3866,Work by a constant force,NF,N,BP
+3866,Work and Kinetic Energy,NP,NA,NA
+3866,Potential Energy,Other_F,NA,NA
+3866,When is Mechanical Energy Conserved,NF,N,NF
+3866,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+3866,Problems Using Conservation of Mechanical Energy,NF,N,NF
+3866,Problems with Two Types of Potential Energy,NF,B,EP
+3866,Mechanical Energy and Non-Conservative Work,BF,B,NP
+3866,More mechanical energy problems,Other_P,NA,NA
+3881,Kinetic Energy,Other_F,NA,NA
+3881,Work by a constant force,NF,N,NP
+3881,Work and Kinetic Energy,BF,N,EF
+3881,Potential Energy,BF,N,EP
+3881,When is Mechanical Energy Conserved,NF,N,NF
+3881,Simple Application of Conservation of Mechanical Energy,NF,N,EF
+3881,Problems Using Conservation of Mechanical Energy,NF,N,BF
+3881,Problems with Two Types of Potential Energy,BF,N,NF
+3881,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3881,More mechanical energy problems,Other_P,NA,NA
+3890,Kinetic Energy,NF,N,NP
+3890,Work by a constant force,BF,N,NP
+3890,Work and Kinetic Energy,BF,N,EP
+3890,Potential Energy,BF,N,NP
+3890,When is Mechanical Energy Conserved,BF,N,NP
+3890,Simple Application of Conservation of Mechanical Energy,BF,N,NP
+3890,Problems Using Conservation of Mechanical Energy,BF,N,EF
+3890,Problems with Two Types of Potential Energy,BF,N,BF
+3890,Mechanical Energy and Non-Conservative Work,BF,N,NF
+3890,More mechanical energy problems,BP,NA,NA
+3894,Kinetic Energy,Other_NA,NA,NA
+3894,Work and Kinetic Energy,Other_P,NA,NA
+3894,Potential Energy,Other_NA,NA,NA
+3894,When is Mechanical Energy Conserved,BP,NA,NA
+3894,Simple Application of Conservation of Mechanical Energy,Other_NA,NA,NA
+3894,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+3894,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+3894,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3894,More mechanical energy problems,Other_NA,NA,NA
+3901,Kinetic Energy,NP,NA,NA
+3901,Work by a constant force,NP,NA,NA
+3901,Work and Kinetic Energy,NP,NA,NA
+3901,Potential Energy,NP,NA,NA
+3901,When is Mechanical Energy Conserved,NP,NA,NA
+3901,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+3901,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3901,Problems with Two Types of Potential Energy,NP,NA,NA
+3901,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3901,More mechanical energy problems,Other_P,NA,NA
+3903,Kinetic Energy,NF,N,NP
+3903,Work by a constant force,NF,N,NP
+3903,Work and Kinetic Energy,BF,N,NP
+3903,Potential Energy,BF,N,BP
+3903,When is Mechanical Energy Conserved,Other_P,NA,NA
+3903,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+3903,Problems Using Conservation of Mechanical Energy,NF,N,BF
+3903,Problems with Two Types of Potential Energy,BP,NA,NA
+3903,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3903,More mechanical energy problems,BF,B,BF
+3912,Kinetic Energy,NF,N,EP
+3912,Work by a constant force,NF,N,BP
+3912,Work and Kinetic Energy,BP,NA,NA
+3912,Potential Energy,NP,NA,NA
+3912,When is Mechanical Energy Conserved,NP,NA,NA
+3912,Simple Application of Conservation of Mechanical Energy,BP,NA,NA
+3912,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+3912,Problems with Two Types of Potential Energy,BP,NA,NA
+3912,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+3912,More mechanical energy problems,BP,NA,NA
+3931,Kinetic Energy,NF,N,NF
+3931,Work by a constant force,NF,N,BP
+3931,Work and Kinetic Energy,NF,N,BF
+3931,Potential Energy,NF,N,NF
+3931,When is Mechanical Energy Conserved,NF,N,NF
+3931,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+3931,Problems Using Conservation of Mechanical Energy,NF,N,EF
+3931,Problems with Two Types of Potential Energy,Other_P,NA,NA
+3931,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3931,More mechanical energy problems,Other_F,NA,NA
+3952,Kinetic Energy,NF,N,EF
+3952,Work by a constant force,NF,N,NP
+3952,Work and Kinetic Energy,NF,N,EP
+3952,Potential Energy,NF,N,NF
+3952,When is Mechanical Energy Conserved,NF,N,EF
+3952,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3952,Problems Using Conservation of Mechanical Energy,NF,N,NP
+3952,Problems with Two Types of Potential Energy,Other_F,NA,NA
+3952,Mechanical Energy and Non-Conservative Work,NF,B,EP
+3952,More mechanical energy problems,NP,NA,NA
+3967,Kinetic Energy,NF,N,EP
+3967,Work by a constant force,NF,N,EP
+3967,Work and Kinetic Energy,NF,N,NP
+3967,Potential Energy,NF,N,NF
+3967,When is Mechanical Energy Conserved,NF,N,NF
+3967,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+3967,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3967,Problems with Two Types of Potential Energy,NP,NA,NA
+3967,Mechanical Energy and Non-Conservative Work,NF,N,NF
+3967,More mechanical energy problems,NF,B,BF
+3971,Kinetic Energy,NF,N,EF
+3971,Work by a constant force,NF,N,BP
+3971,Work and Kinetic Energy,NP,NA,NA
+3971,Potential Energy,NF,N,NF
+3971,When is Mechanical Energy Conserved,NP,NA,NA
+3971,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+3971,Problems Using Conservation of Mechanical Energy,NF,N,NA
+3971,Problems with Two Types of Potential Energy,BP,NA,NA
+3971,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+3971,More mechanical energy problems,Other_P,NA,NA
+3997,Kinetic Energy,NF,N,NP
+3997,Work by a constant force,NP,NA,NA
+3997,Work and Kinetic Energy,NF,N,EF
+3997,Potential Energy,NF,N,NF
+3997,When is Mechanical Energy Conserved,NF,N,NF
+3997,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+3997,Problems with Two Types of Potential Energy,NF,N,EP
+3997,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+3997,More mechanical energy problems,BP,NA,NA
+4035,Kinetic Energy,NF,N,EP
+4035,Work by a constant force,NF,N,BP
+4035,Work and Kinetic Energy,NP,NA,NA
+4035,Potential Energy,Other_P,NA,NA
+4035,When is Mechanical Energy Conserved,NF,N,NP
+4035,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4035,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4035,Problems with Two Types of Potential Energy,NF,N,EF
+4035,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4035,More mechanical energy problems,BP,NA,NA
+4043,Kinetic Energy,Other_NA,NA,NA
+4043,Work by a constant force,Other_F,NA,NA
+4043,Work and Kinetic Energy,NP,NA,NA
+4043,Potential Energy,NF,N,NP
+4043,When is Mechanical Energy Conserved,NF,N,NF
+4043,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4043,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4043,Problems with Two Types of Potential Energy,NP,NA,NA
+4043,Mechanical Energy and Non-Conservative Work,NF,N,NP
+4043,More mechanical energy problems,Other_P,NA,NA
+4047,Kinetic Energy,NF,N,EP
+4047,Work by a constant force,NF,N,BP
+4047,Work and Kinetic Energy,NP,NA,NA
+4047,Potential Energy,NF,N,EP
+4047,When is Mechanical Energy Conserved,NF,N,EP
+4047,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+4047,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4047,Problems with Two Types of Potential Energy,NF,N,NF
+4047,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4047,More mechanical energy problems,NF,N,BF
+4049,Kinetic Energy,NF,B,NP
+4049,Work by a constant force,NF,B,BP
+4049,Work and Kinetic Energy,BF,B,EP
+4049,Potential Energy,NP,NA,NA
+4049,When is Mechanical Energy Conserved,NF,B,NP
+4049,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4049,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4049,Problems with Two Types of Potential Energy,Other_P,NA,NA
+4049,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+4049,More mechanical energy problems,BP,NA,NA
+4052,Kinetic Energy,NF,N,EP
+4052,Work by a constant force,NF,N,BP
+4052,Work and Kinetic Energy,NF,N,EP
+4052,Potential Energy,NF,N,NP
+4052,When is Mechanical Energy Conserved,NF,N,EP
+4052,Simple Application of Conservation of Mechanical Energy,NF,N,EP
+4052,Problems Using Conservation of Mechanical Energy,NF,N,EP
+4052,Problems with Two Types of Potential Energy,NF,N,EP
+4052,Mechanical Energy and Non-Conservative Work,NF,N,EP
+4052,More mechanical energy problems,NF,N,EP
+4062,Kinetic Energy,NP,NA,NA
+4062,Work by a constant force,NP,NA,NA
+4062,Work and Kinetic Energy,BP,NA,NA
+4062,When is Mechanical Energy Conserved,Other_P,NA,NA
+4062,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+4062,Problems Using Conservation of Mechanical Energy,NF,B,BF
+4062,Problems with Two Types of Potential Energy,BP,NA,NA
+4062,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+4062,More mechanical energy problems,BP,NA,NA
+4085,Kinetic Energy,NP,NA,NA
+4085,Work by a constant force,Other_NA,NA,NA
+4085,Work and Kinetic Energy,NP,NA,NA
+4085,Potential Energy,NP,NA,NA
+4085,When is Mechanical Energy Conserved,Other_P,NA,NA
+4085,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4085,Problems Using Conservation of Mechanical Energy,Other_P,NA,NA
+4085,Problems with Two Types of Potential Energy,NP,NA,NA
+4085,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4085,More mechanical energy problems,Other_P,NA,NA
+4131,Kinetic Energy,NF,N,EP
+4131,Work by a constant force,BF,N,BP
+4131,Potential Energy,NF,N,NP
+4131,When is Mechanical Energy Conserved,NF,N,NP
+4131,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4131,Problems Using Conservation of Mechanical Energy,NF,N,BF
+4131,Problems with Two Types of Potential Energy,BF,N,NF
+4131,Mechanical Energy and Non-Conservative Work,NF,N,BP
+4131,More mechanical energy problems,BF,B,BP
+4146,Kinetic Energy,Other_F,NA,NA
+4146,Work by a constant force,NP,NA,NA
+4146,Work and Kinetic Energy,NF,N,NP
+4146,Potential Energy,NP,NA,NA
+4146,When is Mechanical Energy Conserved,NP,NA,NA
+4146,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4146,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+4146,Problems with Two Types of Potential Energy,NF,N,EF
+4146,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4146,More mechanical energy problems,NP,NA,NA
+4150,Kinetic Energy,NF,N,EP
+4150,Work by a constant force,NF,N,BF
+4150,Work and Kinetic Energy,Other_F,NA,NA
+4150,Potential Energy,Other_NA,NA,NA
+4150,When is Mechanical Energy Conserved,NF,N,NP
+4150,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4150,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4150,Problems with Two Types of Potential Energy,NF,B,BP
+4150,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+4150,More mechanical energy problems,BP,NA,NA
+4165,Kinetic Energy,Other_F,NA,NA
+4165,Work by a constant force,Other_NA,NA,NA
+4165,Work and Kinetic Energy,Other_P,NA,NA
+4165,Potential Energy,Other_NA,NA,NA
+4165,When is Mechanical Energy Conserved,Other_P,NA,NA
+4165,Simple Application of Conservation of Mechanical Energy,Other_NA,NA,NA
+4165,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+4165,Problems with Two Types of Potential Energy,BP,NA,NA
+4165,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4165,More mechanical energy problems,Other_NA,NA,NA
+4166,Kinetic Energy,NP,NA,NA
+4166,Work by a constant force,BP,NA,NA
+4166,Work and Kinetic Energy,Other_F,NA,NA
+4166,Potential Energy,NF,N,NP
+4166,When is Mechanical Energy Conserved,NF,N,NF
+4166,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4166,Problems Using Conservation of Mechanical Energy,NF,N,EP
+4166,Problems with Two Types of Potential Energy,NP,NA,NA
+4166,Mechanical Energy and Non-Conservative Work,NF,N,NP
+4166,More mechanical energy problems,NF,N,EP
+4193,Kinetic Energy,NF,N,NP
+4193,Work by a constant force,BF,N,BP
+4193,Work and Kinetic Energy,NF,N,NP
+4193,Potential Energy,Other_NA,NA,NA
+4193,When is Mechanical Energy Conserved,Other_NA,NA,NA
+4193,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4193,Problems Using Conservation of Mechanical Energy,NF,N,NA
+4193,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+4193,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4193,More mechanical energy problems,BP,NA,NA
+4197,Kinetic Energy,Other_F,NA,NA
+4197,Work by a constant force,NF,N,EF
+4197,Work and Kinetic Energy,NF,N,BF
+4229,Kinetic Energy,NF,N,EP
+4229,Work by a constant force,Other_NA,NA,NA
+4229,Work and Kinetic Energy,NP,NA,NA
+4229,Potential Energy,Other_F,NA,NA
+4229,When is Mechanical Energy Conserved,NP,NA,NA
+4229,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4229,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+4229,Problems with Two Types of Potential Energy,Other_F,NA,NA
+4229,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+4229,More mechanical energy problems,BF,B,BF
+4239,Kinetic Energy,NF,B,BF
+4239,Work by a constant force,Other_F,NA,NA
+4239,Work and Kinetic Energy,BF,B,BF
+4239,Potential Energy,NF,N,BP
+4239,When is Mechanical Energy Conserved,BF,N,BF
+4239,Simple Application of Conservation of Mechanical Energy,BF,B,BP
+4239,Problems with Two Types of Potential Energy,NF,B,BP
+4239,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4239,More mechanical energy problems,Other_P,NA,NA
+4279,Kinetic Energy,BF,B,NF
+4279,Work by a constant force,Other_NA,NA,NA
+4279,Work and Kinetic Energy,BF,B,BP
+4279,Potential Energy,NF,B,NF
+4279,When is Mechanical Energy Conserved,NF,B,BF
+4279,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+4279,Problems Using Conservation of Mechanical Energy,NF,B,NF
+4279,Problems with Two Types of Potential Energy,Other_P,NA,NA
+4279,Mechanical Energy and Non-Conservative Work,BF,B,BF
+4279,More mechanical energy problems,BF,B,BP
+4289,Kinetic Energy,NF,B,BF
+4289,Work by a constant force,BF,B,BP
+4289,Work and Kinetic Energy,BP,NA,NA
+4289,Potential Energy,NF,N,BF
+4289,When is Mechanical Energy Conserved,BF,N,BP
+4289,Simple Application of Conservation of Mechanical Energy,BP,NA,NA
+4289,Problems Using Conservation of Mechanical Energy,NF,B,NF
+4289,Problems with Two Types of Potential Energy,Other_P,NA,NA
+4289,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4289,More mechanical energy problems,Other_P,NA,NA
+4300,Kinetic Energy,NF,N,EP
+4300,Work by a constant force,NF,N,NP
+4300,Work and Kinetic Energy,NF,N,EP
+4300,Potential Energy,NF,N,EP
+4300,When is Mechanical Energy Conserved,Other_F,NA,NA
+4300,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4300,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4300,Problems with Two Types of Potential Energy,NF,N,EF
+4300,Mechanical Energy and Non-Conservative Work,NF,N,EF
+4300,More mechanical energy problems,NP,NA,NA
+4309,Kinetic Energy,NP,NA,NA
+4309,Work by a constant force,NP,NA,NA
+4309,Work and Kinetic Energy,NP,NA,NA
+4309,Potential Energy,NP,NA,NA
+4309,When is Mechanical Energy Conserved,NP,NA,NA
+4309,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4309,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+4309,Problems with Two Types of Potential Energy,NP,NA,NA
+4309,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4309,More mechanical energy problems,NP,NA,NA
+4349,Kinetic Energy,NF,N,EP
+4349,Work by a constant force,NF,N,NP
+4349,Work and Kinetic Energy,BP,NA,NA
+4349,Potential Energy,NF,N,NF
+4349,When is Mechanical Energy Conserved,NF,N,BF
+4349,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+4349,Problems Using Conservation of Mechanical Energy,NF,N,NA
+4349,Problems with Two Types of Potential Energy,NP,NA,NA
+4349,More mechanical energy problems,BF,N,EP
+4358,Kinetic Energy,NP,NA,NA
+4358,Work by a constant force,NP,NA,NA
+4358,Work and Kinetic Energy,NP,NA,NA
+4358,Potential Energy,Other_P,NA,NA
+4358,When is Mechanical Energy Conserved,NF,N,NP
+4358,Simple Application of Conservation of Mechanical Energy,Other_F,NA,NA
+4358,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+4358,Problems with Two Types of Potential Energy,NP,NA,NA
+4358,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4358,More mechanical energy problems,Other_P,NA,NA
+4383,Kinetic Energy,NF,N,EP
+4383,Work by a constant force,NF,N,BP
+4383,Work and Kinetic Energy,Other_F,NA,NA
+4383,Potential Energy,NF,N,NP
+4383,When is Mechanical Energy Conserved,NF,N,NP
+4383,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4383,Problems Using Conservation of Mechanical Energy,NF,B,NF
+4383,Problems with Two Types of Potential Energy,BP,NA,NA
+4383,Mechanical Energy and Non-Conservative Work,BP,NA,NA
+4383,More mechanical energy problems,Other_F,NA,NA
+4400,Kinetic Energy,BF,N,EF
+4400,Work by a constant force,NF,N,BF
+4400,Work and Kinetic Energy,BF,N,NP
+4400,Potential Energy,NF,N,NP
+4400,When is Mechanical Energy Conserved,BF,N,NF
+4400,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4400,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+4400,Problems with Two Types of Potential Energy,BP,NA,NA
+4400,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+4400,More mechanical energy problems,BP,NA,NA
+4403,Kinetic Energy,NF,N,EP
+4403,Work by a constant force,NF,B,BP
+4403,Work and Kinetic Energy,NF,N,EP
+4403,Potential Energy,NF,N,NA
+4403,When is Mechanical Energy Conserved,Other_F,NA,NA
+4403,Simple Application of Conservation of Mechanical Energy,BF,N,NA
+4403,Problems Using Conservation of Mechanical Energy,BF,N,NA
+4403,Problems with Two Types of Potential Energy,BF,N,NA
+4407,Kinetic Energy,Other_F,NA,NA
+4407,Work by a constant force,BP,NA,NA
+4407,Work and Kinetic Energy,Other_F,NA,NA
+4407,Potential Energy,BF,N,NF
+4407,When is Mechanical Energy Conserved,NF,B,BF
+4407,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+4407,Problems Using Conservation of Mechanical Energy,BF,B,BF
+4407,Problems with Two Types of Potential Energy,NP,NA,NA
+4407,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+4407,More mechanical energy problems,BP,NA,NA
+4410,Kinetic Energy,NF,N,NF
+4410,Work by a constant force,NF,N,BP
+4410,Work and Kinetic Energy,BF,N,BP
+4410,Potential Energy,Other_NA,NA,NA
+4410,When is Mechanical Energy Conserved,Other_NA,NA,NA
+4410,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+4410,Problems Using Conservation of Mechanical Energy,NF,N,EF
+4410,Problems with Two Types of Potential Energy,BP,NA,NA
+4410,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4410,More mechanical energy problems,BP,NA,NA
+4411,Kinetic Energy,NP,NA,NA
+4411,Work by a constant force,Other_F,NA,NA
+4411,Work and Kinetic Energy,NP,NA,NA
+4411,Potential Energy,Other_P,NA,NA
+4411,When is Mechanical Energy Conserved,NF,N,EF
+4411,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4411,Problems Using Conservation of Mechanical Energy,NP,NA,NA
+4411,Problems with Two Types of Potential Energy,NP,NA,NA
+4411,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4411,More mechanical energy problems,NP,NA,NA
+4413,Kinetic Energy,Other_F,NA,NA
+4413,Work by a constant force,NF,B,NP
+4413,Work and Kinetic Energy,BP,NA,NA
+4413,Potential Energy,NP,NA,NA
+4413,When is Mechanical Energy Conserved,NP,NA,NA
+4413,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4413,Problems Using Conservation of Mechanical Energy,NF,N,NF
+4413,Problems with Two Types of Potential Energy,BP,NA,NA
+4413,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+4413,More mechanical energy problems,Other_P,NA,NA
+4434,Kinetic Energy,NP,NA,NA
+4434,Work by a constant force,NP,NA,NA
+4434,Work and Kinetic Energy,Other_NA,NA,NA
+4434,Potential Energy,Other_NA,NA,NA
+4434,When is Mechanical Energy Conserved,BF,B,NA
+4434,Simple Application of Conservation of Mechanical Energy,NF,N,EF
+4434,Problems Using Conservation of Mechanical Energy,NF,N,NA
+4434,Problems with Two Types of Potential Energy,NP,NA,NA
+4434,Mechanical Energy and Non-Conservative Work,NF,N,NA
+4434,More mechanical energy problems,NF,B,EP
+4452,Kinetic Energy,NF,N,NP
+4452,Work by a constant force,NP,NA,NA
+4452,Work and Kinetic Energy,NP,NA,NA
+4452,Potential Energy,NF,B,NP
+4452,When is Mechanical Energy Conserved,NF,N,NF
+4452,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4452,Problems Using Conservation of Mechanical Energy,NF,B,NA
+4452,Problems with Two Types of Potential Energy,Other_F,NA,NA
+4452,Mechanical Energy and Non-Conservative Work,NF,N,NP
+4452,More mechanical energy problems,NP,NA,NA
+4460,Kinetic Energy,NF,N,EP
+4460,Work by a constant force,NF,N,NF
+4460,Work and Kinetic Energy,NF,N,EP
+4460,Potential Energy,NF,B,NF
+4460,When is Mechanical Energy Conserved,NF,B,NF
+4460,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+4460,Problems Using Conservation of Mechanical Energy,NF,B,EF
+4460,Problems with Two Types of Potential Energy,NF,B,NF
+4460,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4460,More mechanical energy problems,NF,B,BF
+4489,Kinetic Energy,NF,N,NF
+4489,Work by a constant force,NF,N,NP
+4489,Work and Kinetic Energy,NP,NA,NA
+4489,Potential Energy,NF,N,BF
+4489,When is Mechanical Energy Conserved,NF,N,BP
+4489,Simple Application of Conservation of Mechanical Energy,NF,N,NF
+4489,Problems Using Conservation of Mechanical Energy,NF,N,NF
+4489,Problems with Two Types of Potential Energy,BP,NA,NA
+4489,Mechanical Energy and Non-Conservative Work,BF,N,NP
+4489,More mechanical energy problems,Other_F,NA,NA
+4606,Kinetic Energy,Other_P,NA,NA
+4606,Work by a constant force,Other_NA,NA,NA
+4606,Work and Kinetic Energy,Other_F,NA,NA
+4606,Potential Energy,NP,NA,NA
+4606,When is Mechanical Energy Conserved,Other_P,NA,NA
+4606,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+4606,Problems Using Conservation of Mechanical Energy,NF,B,NF
+4606,Problems with Two Types of Potential Energy,Other_P,NA,NA
+4606,Mechanical Energy and Non-Conservative Work,NF,N,NP
+4606,More mechanical energy problems,NF,B,BP
+4723,Kinetic Energy,NP,NA,NA
+4723,Work by a constant force,BF,B,BP
+4723,Work and Kinetic Energy,NP,NA,NA
+4723,Potential Energy,NF,N,NP
+4723,When is Mechanical Energy Conserved,NF,N,NF
+4723,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4723,Problems Using Conservation of Mechanical Energy,NF,N,NF
+4723,Problems with Two Types of Potential Energy,NP,NA,NA
+4723,Mechanical Energy and Non-Conservative Work,NF,N,BF
+4723,More mechanical energy problems,BF,N,BF
+4731,Kinetic Energy,NP,NA,NA
+4731,Work by a constant force,Other_F,NA,NA
+4731,Work and Kinetic Energy,NF,N,EP
+4731,Potential Energy,NF,B,NP
+4731,When is Mechanical Energy Conserved,NF,N,NP
+4731,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4731,Problems Using Conservation of Mechanical Energy,Other_P,NA,NA
+4731,Problems with Two Types of Potential Energy,NP,NA,NA
+4731,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+4731,More mechanical energy problems,Other_P,NA,NA
+4742,Kinetic Energy,NP,NA,NA
+4742,Work by a constant force,BP,NA,NA
+4742,Work and Kinetic Energy,BP,NA,NA
+4742,Potential Energy,NP,NA,NA
+4742,When is Mechanical Energy Conserved,NF,N,NF
+4742,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+4742,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+4742,Problems with Two Types of Potential Energy,BP,NA,NA
+4742,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+4742,More mechanical energy problems,BP,NA,NA
+4758,Kinetic Energy,NP,NA,NA
+4758,Work by a constant force,Other_F,NA,NA
+4758,Work and Kinetic Energy,NF,B,NP
+4758,Potential Energy,Other_P,NA,NA
+4758,When is Mechanical Energy Conserved,Other_F,NA,NA
+4758,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+4758,Problems Using Conservation of Mechanical Energy,NF,B,NP
+4758,Problems with Two Types of Potential Energy,Other_F,NA,NA
+4758,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4758,More mechanical energy problems,Other_F,NA,NA
+4762,Kinetic Energy,NF,N,NF
+4762,Work by a constant force,NF,N,BP
+4762,Work and Kinetic Energy,BF,N,NP
+4762,Potential Energy,NF,N,NP
+4762,When is Mechanical Energy Conserved,NF,N,NP
+4762,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4833,Kinetic Energy,NF,B,EP
+4833,Work by a constant force,NP,NA,NA
+4833,Work and Kinetic Energy,NP,NA,NA
+4833,Potential Energy,Other_F,NA,NA
+4833,When is Mechanical Energy Conserved,Other_F,NA,NA
+4833,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+4833,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+4833,Problems with Two Types of Potential Energy,NP,NA,NA
+4833,Mechanical Energy and Non-Conservative Work,Other_F,NA,NA
+4833,More mechanical energy problems,Other_P,NA,NA
+4861,Kinetic Energy,Other_F,NA,NA
+4861,Work by a constant force,NF,N,EP
+4861,Work and Kinetic Energy,NP,NA,NA
+4861,Potential Energy,Other_NA,NA,NA
+4861,When is Mechanical Energy Conserved,Other_F,NA,NA
+4861,Simple Application of Conservation of Mechanical Energy,Other_P,NA,NA
+4861,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+4861,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+4861,Mechanical Energy and Non-Conservative Work,Other_NA,NA,NA
+4861,More mechanical energy problems,Other_NA,NA,NA
+4917,Kinetic Energy,NP,NA,NA
+4917,Work by a constant force,NF,B,BP
+4917,Work and Kinetic Energy,BF,B,NP
+4917,Potential Energy,Other_F,NA,NA
+4917,When is Mechanical Energy Conserved,NF,B,NP
+4917,Simple Application of Conservation of Mechanical Energy,NF,B,BP
+4917,Problems Using Conservation of Mechanical Energy,NF,B,BF
+4917,Problems with Two Types of Potential Energy,BP,NA,NA
+4917,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+4917,More mechanical energy problems,NP,NA,NA
+4990,Kinetic Energy,NF,N,EF
+4990,Work by a constant force,BF,N,EP
+4990,Work and Kinetic Energy,BF,N,EP
+4990,Potential Energy,Other_F,NA,NA
+4990,When is Mechanical Energy Conserved,NF,N,NP
+4990,Simple Application of Conservation of Mechanical Energy,NF,N,NP
+4990,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+5195,Kinetic Energy,NF,N,EP
+5195,Work by a constant force,Other_F,NA,NA
+5195,Work and Kinetic Energy,NP,NA,NA
+5195,Potential Energy,NF,N,NP
+5195,When is Mechanical Energy Conserved,NF,N,NP
+5195,Simple Application of Conservation of Mechanical Energy,NF,N,BP
+5195,Problems Using Conservation of Mechanical Energy,NF,N,EP
+5195,Problems with Two Types of Potential Energy,NP,NA,NA
+5195,Mechanical Energy and Non-Conservative Work,NF,N,BP
+5195,More mechanical energy problems,NP,NA,NA
+5210,Kinetic Energy,NF,N,EF
+5210,Work by a constant force,BP,NA,NA
+5210,Work and Kinetic Energy,NP,NA,NA
+5210,Potential Energy,Other_NA,NA,NA
+5210,When is Mechanical Energy Conserved,Other_NA,NA,NA
+5210,Simple Application of Conservation of Mechanical Energy,NP,NA,NA
+5210,Problems Using Conservation of Mechanical Energy,NF,N,EF
+5210,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+5210,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+5210,More mechanical energy problems,Other_P,NA,NA
+5299,Kinetic Energy,BP,NA,NA
+5299,Work by a constant force,Other_F,NA,NA
+5299,Work and Kinetic Energy,NP,NA,NA
+5299,Potential Energy,Other_NA,NA,NA
+5299,When is Mechanical Energy Conserved,Other_NA,NA,NA
+5299,Simple Application of Conservation of Mechanical Energy,Other_NA,NA,NA
+5299,Problems Using Conservation of Mechanical Energy,Other_NA,NA,NA
+5299,Problems with Two Types of Potential Energy,Other_NA,NA,NA
+5299,Mechanical Energy and Non-Conservative Work,NP,NA,NA
+5299,More mechanical energy problems,BP,NA,NA
+5377,Kinetic Energy,Other_P,NA,NA
+5377,Work by a constant force,Other_P,NA,NA
+5377,Work and Kinetic Energy,NP,NA,NA
+5377,Potential Energy,Other_F,NA,NA
+5377,When is Mechanical Energy Conserved,Other_P,NA,NA
+5377,Simple Application of Conservation of Mechanical Energy,BP,NA,NA
+5377,Problems Using Conservation of Mechanical Energy,Other_F,NA,NA
+5377,Problems with Two Types of Potential Energy,Other_P,NA,NA
+5377,Mechanical Energy and Non-Conservative Work,Other_P,NA,NA
+5377,More mechanical energy problems,NF,N,BF
