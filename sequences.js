@@ -20,9 +20,9 @@ var colors = {
   "N": "#fdae61",
   "Other": "#6f7678",
   "": "#ffffff",
-  //"Kinetic Energy": "#ffffff",
+  "Kinetic Energy": "#ffffff"
   //"Work by a constant force": "#ffffff",
-  "Work and Kinetic Energy": "#ffffff"
+  //"Work and Kinetic Energy": "#ffffff"
   //"Potential Energy": "#ffffff",
   //"When is Mechanical Energy Conserved": "#ffffff",
   //"Simple Application of Conservation of Mechanical Energy": "#ffffff",
@@ -57,7 +57,7 @@ var arc = d3.arc()
 //////////////////////////////////////////////////////////////////////////////
 // Use d3.text and d3.csvParseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.text("sunburstData_New_WAKE_Other.csv", function(text) {
+d3.text("sunburstData_New_KE_Other.csv", function(text) {
   var csv = d3.csvParseRows(text);
   var json = buildHierarchy(csv);
   createVisualization(json);
