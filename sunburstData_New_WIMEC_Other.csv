@@ -1,21 +1,26 @@
-When is Mechanical Energy Conserved-BF-B-,1
+sequence ,n
+When is Mechanical Energy Conserved-BF-B-NF,1
 When is Mechanical Energy Conserved-BF-N-BF,3
 When is Mechanical Energy Conserved-BF-N-BP,1
-When is Mechanical Energy Conserved-BF-N-EP,1
 When is Mechanical Energy Conserved-BF-N-NF,3
-When is Mechanical Energy Conserved-BF-N-NP,6
+When is Mechanical Energy Conserved-BF-N-NP,7
 When is Mechanical Energy Conserved-BP--,3
 When is Mechanical Energy Conserved-NF-B-BF,4
-When is Mechanical Energy Conserved-NF-B-EP,2
-When is Mechanical Energy Conserved-NF-B-,1
-When is Mechanical Energy Conserved-NF-B-NF,6
-When is Mechanical Energy Conserved-NF-B-NP,11
+When is Mechanical Energy Conserved-NF-B-NF,7
+When is Mechanical Energy Conserved-NF-B-NP,13
 When is Mechanical Energy Conserved-NF-N-BF,6
 When is Mechanical Energy Conserved-NF-N-BP,1
-When is Mechanical Energy Conserved-NF-N-EF,8
-When is Mechanical Energy Conserved-NF-N-EP,10
-When is Mechanical Energy Conserved-NF-N-,2
-When is Mechanical Energy Conserved-NF-N-NF,42
-When is Mechanical Energy Conserved-NF-N-NP,54
+When is Mechanical Energy Conserved-NF-N-NF,53
+When is Mechanical Energy Conserved-NF-N-NP,64
 When is Mechanical Energy Conserved-NP--,18
 When is Mechanical Energy Conserved-Other--,44
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

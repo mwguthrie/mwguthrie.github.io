@@ -1,3 +1,4 @@
+sequence ,n
 Mechanical Energy and Nonconservative Work-BF-B-BF,2
 Mechanical Energy and Nonconservative Work-BF-B-BP,1
 Mechanical Energy and Nonconservative Work-BF-B-NF,2
@@ -18,8 +19,7 @@ Mechanical Energy and Nonconservative Work-NF-N-BF,2
 Mechanical Energy and Nonconservative Work-NF-N-BP,7
 Mechanical Energy and Nonconservative Work-NF-N-EF,2
 Mechanical Energy and Nonconservative Work-NF-N-EP,15
-Mechanical Energy and Nonconservative Work-NF-N-,1
-Mechanical Energy and Nonconservative Work-NF-N-NF,9
+Mechanical Energy and Nonconservative Work-NF-N-NF,10
 Mechanical Energy and Nonconservative Work-NF-N-NP,13
 Mechanical Energy and Nonconservative Work-NP--,66
 Mechanical Energy and Nonconservative Work-Other--,46

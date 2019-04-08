@@ -1,18 +1,12 @@
-sequence,n
+sequence ,n
 Kinetic Energy-BF-B-NF,1
-Kinetic Energy-BF-N-EF,1
+Kinetic Energy-BF-N-NF,1
 Kinetic Energy-BP--,1
 Kinetic Energy-NF-B-BF,2
-Kinetic Energy-NF-B-EF,2
-Kinetic Energy-NF-B-EP,7
-Kinetic Energy-NF-B-,2
-Kinetic Energy-NF-B-NF,3
-Kinetic Energy-NF-B-NP,3
+Kinetic Energy-NF-B-NF,7
+Kinetic Energy-NF-B-NP,10
 Kinetic Energy-NF-N-BF,1
-Kinetic Energy-NF-N-EF,12
-Kinetic Energy-NF-N-EP,59
-Kinetic Energy-NF-N-,2
-Kinetic Energy-NF-N-NF,9
-Kinetic Energy-NF-N-NP,23
+Kinetic Energy-NF-N-NF,23
+Kinetic Energy-NF-N-NP,82
 Kinetic Energy-NP--,62
-Kinetic Energy-Other--,37
+Kinetic Energy-Other--,36

@@ -1,21 +1,26 @@
+sequence ,n
 Work by a constant force-BF-B-BP,4
 Work by a constant force-BF-N-BF,2
 Work by a constant force-BF-N-BP,3
-Work by a constant force-BF-N-EP,1
 Work by a constant force-BF-N-NF,1
-Work by a constant force-BF-N-NP,3
+Work by a constant force-BF-N-NP,4
 Work by a constant force-BP--,13
 Work by a constant force-NF-B-BF,1
 Work by a constant force-NF-B-BP,7
-Work by a constant force-NF-B-EF,1
-Work by a constant force-NF-B-EP,1
-Work by a constant force-NF-B-NF,3
-Work by a constant force-NF-B-NP,3
+Work by a constant force-NF-B-NF,4
+Work by a constant force-NF-B-NP,4
 Work by a constant force-NF-N-BF,13
-Work by a constant force-NF-N-BP,68
-Work by a constant force-NF-N-EF,3
-Work by a constant force-NF-N-EP,4
-Work by a constant force-NF-N-NF,5
-Work by a constant force-NF-N-NP,25
+Work by a constant force-NF-N-BP,69
+Work by a constant force-NF-N-NF,8
+Work by a constant force-NF-N-NP,29
 Work by a constant force-NP--,26
 Work by a constant force-Other--,40
+,
+,
+,
+,
+,
+,
+,
+,
+,
