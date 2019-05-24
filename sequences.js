@@ -10,14 +10,14 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "BP": "#cbe1f7",
-  "BF": "#f7d5cb",
-  "NP": "#0078ff",
-  "NF": "#ff3c00",
-  "EP": "#00428c",
-  "EF": "#b42900",
-  "B": "#f7ebcb",
-  "N": "#fdae61",
+  "Individual Instructor": "#cbe1f7",
+  "Individual Instructor Level": "#f7d5cb",
+  "RBIS to Implementation": "#0078ff",
+  "Loosening Structure": "#ff3c00",
+  "Semester to Semester": "#00428c",
+  "Tailoring/Tweaking": "#b42900",
+  "Integrating Another RBIS": "#f7ebcb",
+  "Instructors Teaching the Same Class Level": "#fdae61",
   "Other": "#403f4c",
   "": "#ffffff",
   //"Kinetic Energy": "#ffffff"
@@ -57,7 +57,7 @@ var arc = d3.arc()
 //////////////////////////////////////////////////////////////////////////////
 // Use d3.text and d3.csvParseRows so that we do not need to have a header
 // row, and can receive the csv as an array of arrays.
-d3.text("sunburstData_New_MMEP.csv", function(text) {
+d3.text("Sunburt data from Erin 5-23-19.csv", function(text) {
   var csv = d3.csvParseRows(text);
   var json = buildHierarchy(csv);
   createVisualization(json);
